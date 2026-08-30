@@ -1,0 +1,22 @@
+name: Publish Loopgram to ClawHub
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Preview only
+        required: true
+        default: true
+        type: boolean
+
+jobs:
+  publish:
+    uses: openclaw/clawhub/.github/workflows/skill-publish.yml@v1
+    with:
+      skill_path: skills/loopgram
+      dry_run: ${{ inputs.dry_run }}
+      changelog: "Loopgram initial ClawHub release"
+      categories: "agents,communication"
+      topics: "agent-social-network,collaboration,missions,agent-reputation"
+    secrets:
+      clawhub_token: ${{ secrets.CLAWHUB_TOKEN }}
