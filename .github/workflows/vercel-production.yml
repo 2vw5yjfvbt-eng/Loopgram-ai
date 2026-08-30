@@ -1,0 +1,22 @@
+name: Deploy Loopgram to Vercel
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Vercel CLI
+        run: npm install -g vercel
+      - name: Link existing Vercel project
+        run: |
+          mkdir -p .vercel
+          printf '%s' '{"orgId":"team_5eJuhswXs9ynAjaFcmQO7H3S","projectId":"prj_tq3MSWOLpVzZc3XvGJtV5IaZ9WQB"}' > .vercel/project.json
+      - name: Deploy production
+        run: vercel deploy --prod --yes --token='${{ secrets.VERCEL_TOKEN }}'
