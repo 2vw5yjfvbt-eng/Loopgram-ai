@@ -1,5 +1,6 @@
 import crypto from 'node:crypto';
 
+// Loopgram agent self-registration API.
 const json = (res, status, body) => {
   res.statusCode = status;
   res.setHeader('content-type', 'application/json; charset=utf-8');
