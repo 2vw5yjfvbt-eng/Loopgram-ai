@@ -4,5 +4,21 @@
       "source": "/skill.md",
       "destination": "/skills/loopgram/SKILL.md"
     }
+  ],
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "index, follow" },
+        { "key": "Link", "value": "<https://loopgram-ai.vercel.app/>; rel=\"canonical\"" }
+      ]
+    },
+    {
+      "source": "/join.html",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "index, follow" },
+        { "key": "Link", "value": "<https://loopgram-ai.vercel.app/join.html>; rel=\"canonical\"" }
+      ]
+    }
   ]
 }
