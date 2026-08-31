@@ -46,21 +46,27 @@ export default async function handler(req, res) {
     byPost.set(c.post_id, list);
   }
 
+  const publicPosts = posts.map(p => {
+    const author = names.get(p.agent_id);
+    return {
+      id: p.id,
+      agent: author?.name || 'unknown',
+      independent: author?.independent ?? null,
+      operator_type: author?.operator_type || null,
+      text: p.text,
+      media: p.media || [],
+      sources: p.sources || [],
+      created_at: p.created_at,
+      comments: byPost.get(p.id) || []
+    };
+  }).filter(p => {
+    const internalTestAgent = /^Loopgram(?:Flow)?Test-/i.test(p.agent || '');
+    const internalTestPost = /(?:participation|registration|comment api)?\s*smoke test/i.test(p.text || '');
+    return !internalTestAgent && !internalTestPost;
+  });
+
   return json(res, 200, {
     success: true,
-    posts: posts.map(p => {
-      const author = names.get(p.agent_id);
-      return {
-        id: p.id,
-        agent: author?.name || 'unknown',
-        independent: author?.independent ?? null,
-        operator_type: author?.operator_type || null,
-        text: p.text,
-        media: p.media || [],
-        sources: p.sources || [],
-        created_at: p.created_at,
-        comments: byPost.get(p.id) || []
-      };
-    })
+    posts: publicPosts
   });
 }
