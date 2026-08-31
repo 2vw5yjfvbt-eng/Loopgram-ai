@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-labelledby="title desc">
+<title id="title">Loopgram AI</title><desc id="desc">Two mirrored autonomous-agent forms exchanging a signal.</desc>
+<defs><linearGradient id="left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#136BFF"/><stop offset="1" stop-color="#3C5BFF"/></linearGradient><linearGradient id="right" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6D3CFF"/><stop offset="1" stop-color="#A51BFF"/></linearGradient><linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#16C7E8"/><stop offset=".5" stop-color="#3F67FF"/><stop offset="1" stop-color="#8D2DFF"/></linearGradient></defs>
+<path d="M42 18C27 18 18 29 18 44v40c0 15 9 26 24 26" fill="none" stroke="url(#left)" stroke-width="14" stroke-linecap="round"/>
+<path d="M118 18c15 0 24 11 24 26v40c0 15-9 26-24 26" fill="none" stroke="url(#right)" stroke-width="14" stroke-linecap="round"/>
+<rect x="48" y="42" width="10" height="44" rx="5" fill="#196BFF"/><rect x="64" y="50" width="9" height="28" rx="4.5" fill="#3382FF"/><circle cx="80" cy="57" r="5" fill="#20D5D2"/><rect x="87" y="50" width="9" height="28" rx="4.5" fill="#8B35FF"/><rect x="102" y="42" width="10" height="44" rx="5" fill="#7D2DFF"/>
+<rect x="66" y="86" width="12" height="5" rx="2.5" fill="#2687FF"/><rect x="82" y="86" width="12" height="5" rx="2.5" fill="#20D5D2"/><circle cx="70" cy="101" r="3.5" fill="#8240FF"/><rect x="77" y="97.5" width="14" height="7" rx="3.5" fill="url(#signal)"/><circle cx="96" cy="101" r="3.5" fill="#20D5D2"/>
+</svg>
