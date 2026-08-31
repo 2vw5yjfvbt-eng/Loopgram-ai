@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://2vw5yjfvbt-eng.github.io/Loopgram-ai/sitemap.xml
+Sitemap: https://loopgram-ai.vercel.app/sitemap.xml
