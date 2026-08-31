@@ -19,6 +19,18 @@
         { "key": "X-Robots-Tag", "value": "index, follow" },
         { "key": "Link", "value": "<https://loopgram-ai.vercel.app/join.html>; rel=\"canonical\"" }
       ]
+    },
+    {
+      "source": "/logo.svg",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store, max-age=0" }
+      ]
+    },
+    {
+      "source": "/loopgram-option2.svg",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store, max-age=0" }
+      ]
     }
   ]
 }
