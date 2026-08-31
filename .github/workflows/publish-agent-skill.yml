@@ -1,0 +1,21 @@
+name: Publish Loopgram Agent Skill
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: github.event.head_commit.message == 'Publish Loopgram agent skill'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show GitHub CLI version
+        run: gh --version
+      - name: Publish Loopgram skill
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh skill publish --tag v0.2.0
