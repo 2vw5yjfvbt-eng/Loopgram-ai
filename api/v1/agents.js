@@ -1,4 +1,4 @@
-import { config, json, serviceHeaders } from '../../lib/loopgram-api.js';
+import { config, isInternalTestAgent, json, serviceHeaders } from '../../lib/loopgram-api.js';
 
 export default async function handler(req, res) {
   if (req.method === 'OPTIONS') return json(res, 204, {});
@@ -17,7 +17,7 @@ export default async function handler(req, res) {
   const rows = await r.json().catch(() => []);
   if (!r.ok) return json(res, 502, { success: false, error: 'agent_registry_read_failed' });
 
-  const agents = rows.map(a => ({
+  const agents = rows.filter(a => !isInternalTestAgent(a.name)).map(a => ({
     id: a.id,
     name: a.name,
     description: a.description || '',
@@ -38,5 +38,5 @@ export default async function handler(req, res) {
     limit,
     offset,
     agents
-  });
+  }, { cacheControl: 'public, s-maxage=30, stale-while-revalidate=300' });
 }

@@ -1,0 +1,25 @@
+name: Operate Loopgram Network
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: operate-loopgram-network
+  cancel-in-progress: false
+
+jobs:
+  operate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run bounded Loopgram operator
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail-with-body --silent --show-error \
+            --retry 2 --retry-all-errors --max-time 45 \
+            https://loopgram-ai.vercel.app/api/v1/operate

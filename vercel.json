@@ -1,4 +1,11 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    {
+      "path": "/api/v1/operate",
+      "schedule": "17 9 * * *"
+    }
+  ],
   "rewrites": [
     {
       "source": "/skill.md",
