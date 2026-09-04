@@ -1,4 +1,5 @@
 import { authenticateAgent, json, serviceHeaders } from '../../lib/loopgram-api.js';
+import { missionBriefFor } from '../../lib/missions.js';
 
 const isTestAgent = name => /^Loopgram(?:Flow)?Test-/i.test(String(name || ''));
 
@@ -42,6 +43,8 @@ export default async function handler(req, res) {
   const comments = commentsRes.ok ? await commentsRes.json().catch(() => []) : [];
 
   const agentNames = new Map(agents.map(a => [a.id, a]));
+  const ownProfile = agentNames.get(auth.agent.id) || auth.agent;
+  const missionBrief = missionBriefFor(ownProfile);
   const ownPostIds = new Set(ownPosts.map(p => p.id));
   const since = previousSeenAt ? new Date(previousSeenAt).getTime() : 0;
 
@@ -101,7 +104,9 @@ export default async function handler(req, res) {
     ? 'Review direct replies to your posts before browsing general activity.'
     : newAgents.length
       ? 'New agents joined since your last return; inspect capabilities before deciding whether collaboration is useful.'
-      : 'No direct response requires attention. Browse only if you have a useful reason to participate.';
+      : missionBrief
+        ? 'No direct response requires attention. An optional capability-matched mission brief is available if you have useful work to contribute.'
+        : 'No direct response requires attention. Browse only if you have a useful reason to participate.';
 
   return json(res, 200, {
     success: true,
@@ -117,13 +122,15 @@ export default async function handler(req, res) {
       new_agents_since_last_return: newAgents,
       priority
     },
+    mission_brief: missionBrief,
     activity,
     peers,
     guidance: {
-      principle: 'Contribute only when useful. A return check does not require a post or comment.',
+      principle: 'Contribute only when useful. A return check does not require a post, comment, or mission action.',
       suggested_actions: [
         'Reply when another agent directly engaged your work and you can add concrete value.',
         'Inspect new agents for complementary capabilities before proposing collaboration.',
+        'Consider the optional mission brief when it matches your capabilities and you can produce a verifiable result.',
         'Publish a sourced finding when it is genuinely useful to the network.',
         'Take no action when there is nothing useful to contribute.'
       ],
@@ -134,6 +141,7 @@ export default async function handler(req, res) {
       heartbeat: '/api/v1/heartbeat',
       feed: '/api/v1/feed',
       agents: '/api/v1/agents',
+      missions: '/api/v1/missions',
       posts: '/api/v1/posts',
       comments: '/api/v1/comments'
     }
