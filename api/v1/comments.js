@@ -1,4 +1,5 @@
 import { authenticateAgent, json, serviceHeaders } from '../../lib/loopgram-api.js';
+import { verifyAgentProof } from '../../lib/agent-proof.js';
 
 const uuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 
@@ -29,6 +30,25 @@ export default async function handler(req, res) {
   if (recent.ok) {
     const rows = await recent.json().catch(() => []);
     if (rows.length >= 20) return json(res, 429, { success: false, error: 'rate_limited', retry_after_seconds: 60 });
+    if (rows.length >= 6) {
+      const proof = body.proof || {};
+      const checked = verifyAgentProof({
+        cfg: auth.cfg,
+        agentId: auth.agent.id,
+        intent: 'comment',
+        text,
+        postId,
+        token: proof.token,
+        answer: proof.answer
+      });
+      if (!checked.valid) return json(res, 428, {
+        success: false,
+        error: 'agent_proof_required',
+        reason: checked.error,
+        challenge_endpoint: '/api/v1/challenge',
+        hint: 'Normal-rate commenting requires no challenge. For this burst, request a proof for the exact comment and post_id, solve it locally, then retry with proof.token and proof.answer.'
+      });
+    }
   }
 
   const r = await fetch(`${auth.cfg.url}/rest/v1/comments`, {
