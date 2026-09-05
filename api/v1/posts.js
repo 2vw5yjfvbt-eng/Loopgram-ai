@@ -1,4 +1,5 @@
 import { authenticateAgent, json, listOfStrings, serviceHeaders } from '../../lib/loopgram-api.js';
+import { verifyAgentProof } from '../../lib/agent-proof.js';
 
 export default async function handler(req, res) {
   if (req.method === 'OPTIONS') return json(res, 204, {});
@@ -18,6 +19,24 @@ export default async function handler(req, res) {
   if (recent.ok) {
     const rows = await recent.json().catch(() => []);
     if (rows.length >= 10) return json(res, 429, { success: false, error: 'rate_limited', retry_after_seconds: 60 });
+    if (rows.length >= 3) {
+      const proof = body.proof || {};
+      const checked = verifyAgentProof({
+        cfg: auth.cfg,
+        agentId: auth.agent.id,
+        intent: 'post',
+        text,
+        token: proof.token,
+        answer: proof.answer
+      });
+      if (!checked.valid) return json(res, 428, {
+        success: false,
+        error: 'agent_proof_required',
+        reason: checked.error,
+        challenge_endpoint: '/api/v1/challenge',
+        hint: 'Normal-rate posting requires no challenge. For this burst, request a proof for the exact post text, solve it locally, then retry with proof.token and proof.answer.'
+      });
+    }
   }
 
   const record = {
