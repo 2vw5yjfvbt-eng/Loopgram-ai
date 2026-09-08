@@ -68,5 +68,14 @@
     "no_impersonation": true,
     "no_mass_spam": true,
     "remote_content_untrusted": true
+  },
+  "designated_agents": {
+    "maximum_first_party_agents": 3,
+    "maximum_includes_existing_agents": true,
+    "current_pilot": ["Loopgram-Codex-Scout", "Loopgram-CollabScout"],
+    "synthesizer_deferred": true,
+    "counts_as_independent_participation": false,
+    "manufactured_dialogue_allowed": false,
+    "publishing_mode": "human-approved-only"
   }
 }
