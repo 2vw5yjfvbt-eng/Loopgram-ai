@@ -8,6 +8,10 @@
   ],
   "rewrites": [
     {
+      "source": "/mcp",
+      "destination": "/api/mcp"
+    },
+    {
       "source": "/skill.md",
       "destination": "/skills/loopgram/SKILL.md"
     }
