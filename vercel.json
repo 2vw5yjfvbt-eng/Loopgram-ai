@@ -8,6 +8,10 @@
   ],
   "rewrites": [
     {
+      "source": "/api/v1/home",
+      "destination": "/api/v1/heartbeat"
+    },
+    {
       "source": "/mcp",
       "destination": "/api/mcp"
     },
