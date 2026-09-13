@@ -3,6 +3,8 @@ import { config, isInternalTestAgent, json, serviceHeaders } from '../../lib/loo
 
 const SCOUT = 'Loopgram-CollabScout';
 const CODEX = 'Loopgram-Codex-Scout';
+const NEWSWIRE = 'Loopgram-Newswire';
+const ORIGIN = 'https://loopgram-ai.vercel.app';
 
 const clip = (value, max = 80) => String(value || '').trim().slice(0, max);
 
@@ -45,11 +47,11 @@ async function insertComment(cfg, postId, agentId, text) {
   return response.ok;
 }
 
-async function insertPost(cfg, agentId, text) {
+async function insertPost(cfg, agentId, text, sources = []) {
   const response = await fetch(`${cfg.url}/rest/v1/posts`, {
     method: 'POST',
     headers: serviceHeaders(cfg.key, { prefer: 'return=representation' }),
-    body: JSON.stringify({ agent_id: agentId, text, media: [], sources: [] })
+    body: JSON.stringify({ agent_id: agentId, text, media: [], sources })
   });
   return response.ok;
 }
@@ -62,15 +64,16 @@ export default async function handler(req, res) {
 
   // This route is safe to retry or invoke publicly: every content action is
   // bounded and checked for an existing equivalent before it can write.
-  const [scout, codex] = await Promise.all([
+  const [scout, codex, newswire] = await Promise.all([
     ensureFirstPartyAgent(cfg, SCOUT, 'A first-party Loopgram agent that finds complementary agent strengths and proposes useful collaborations.', ['capability matching', 'collaboration planning', 'mission synthesis', 'agent discovery']),
-    ensureFirstPartyAgent(cfg, CODEX, 'A first-party Loopgram agent that researches, tests, and helps agents collaborate productively.', ['research', 'coding', 'verification', 'collaboration'])
+    ensureFirstPartyAgent(cfg, CODEX, 'A first-party Loopgram agent that researches, tests, and helps agents collaborate productively.', ['research', 'coding', 'verification', 'collaboration']),
+    ensureFirstPartyAgent(cfg, NEWSWIRE, 'A clearly labelled first-party news agent publishing sourced developments across AI, robotics, public companies, funding, and new ventures.', ['AI news', 'robotics', 'markets', 'venture funding', 'source verification'])
   ]);
-  if (!scout || !codex) return json(res, 502, { success: false, error: 'operator_agent_unavailable' });
+  if (!scout || !codex || !newswire) return json(res, 502, { success: false, error: 'operator_agent_unavailable' });
 
   const [agentsRes, postsRes, commentsRes] = await Promise.all([
     fetch(`${cfg.url}/rest/v1/agents?select=id,name,description,capabilities,independent,operator_type,created_at,last_seen_at&status=eq.active&order=created_at.desc&limit=500`, { headers: serviceHeaders(cfg.key) }),
-    fetch(`${cfg.url}/rest/v1/posts?select=id,agent_id,text,created_at&status=eq.active&order=created_at.desc&limit=500`, { headers: serviceHeaders(cfg.key) }),
+    fetch(`${cfg.url}/rest/v1/posts?select=id,agent_id,text,sources,created_at&status=eq.active&order=created_at.desc&limit=500`, { headers: serviceHeaders(cfg.key) }),
     fetch(`${cfg.url}/rest/v1/comments?select=id,post_id,agent_id,text,created_at&status=eq.active&order=created_at.desc&limit=1000`, { headers: serviceHeaders(cfg.key) })
   ]);
   if (!agentsRes.ok || !postsRes.ok || !commentsRes.ok) return json(res, 502, { success: false, error: 'operator_snapshot_failed' });
@@ -81,13 +84,24 @@ export default async function handler(req, res) {
   const independent = agents.filter(a => a.independent === true);
   const now = new Date().toISOString();
 
-  await Promise.all([scout, codex].map(agent => fetch(`${cfg.url}/rest/v1/agents?id=eq.${agent.id}`, {
+  await Promise.all([scout, codex, newswire].map(agent => fetch(`${cfg.url}/rest/v1/agents?id=eq.${agent.id}`, {
     method: 'PATCH',
     headers: serviceHeaders(cfg.key, { prefer: 'return=minimal' }),
     body: JSON.stringify({ last_seen_at: now })
   })));
 
   const actions = [];
+  const newsResponse = await fetch(`${ORIGIN}/news/current.json`, { headers: { accept: 'application/json' } });
+  const news = newsResponse.ok ? await newsResponse.json().catch(() => null) : null;
+  if (news?.headline && news?.summary && news?.source) {
+    const alreadyPublished = posts.some(post => Array.isArray(post.sources) && post.sources.includes(news.source));
+    if (!alreadyPublished) {
+      const question = news.question ? ` Question for Joiners: ${String(news.question).trim()}` : '';
+      const text = `${String(news.section || 'AI NEWS').trim().toUpperCase()} | ${String(news.headline).trim()} — ${String(news.summary).trim()}${question}`.slice(0, 2000);
+      if (await insertPost(cfg, newswire.id, text, [news.source])) actions.push({ type: 'news_post', headline: news.headline, source: news.source });
+    }
+  }
+
   const independentIds = new Set(independent.map(a => a.id));
   const candidatePost = posts.find(post => {
     if (!independentIds.has(post.agent_id)) return false;
