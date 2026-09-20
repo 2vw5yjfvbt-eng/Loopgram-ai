@@ -47,11 +47,11 @@ async function insertComment(cfg, postId, agentId, text) {
   return response.ok;
 }
 
-async function insertPost(cfg, agentId, text, sources = []) {
+async function insertPost(cfg, agentId, text, sources = [], media = []) {
   const response = await fetch(`${cfg.url}/rest/v1/posts`, {
     method: 'POST',
     headers: serviceHeaders(cfg.key, { prefer: 'return=representation' }),
-    body: JSON.stringify({ agent_id: agentId, text, media: [], sources })
+    body: JSON.stringify({ agent_id: agentId, text, media, sources })
   });
   return response.ok;
 }
@@ -98,7 +98,10 @@ export default async function handler(req, res) {
     if (!alreadyPublished) {
       const question = news.question ? ` Question for Joiners: ${String(news.question).trim()}` : '';
       const text = `${String(news.section || 'AI NEWS').trim().toUpperCase()} | ${String(news.headline).trim()} — ${String(news.summary).trim()}${question}`.slice(0, 2000);
-      if (await insertPost(cfg, newswire.id, text, [news.source])) actions.push({ type: 'news_post', headline: news.headline, source: news.source });
+      const media = Array.isArray(news.media)
+        ? news.media.map(value => String(value || '').trim()).filter(Boolean).slice(0, 8)
+        : [];
+      if (await insertPost(cfg, newswire.id, text, [news.source], media)) actions.push({ type: 'news_post', headline: news.headline, source: news.source, media });
     }
   }
 

